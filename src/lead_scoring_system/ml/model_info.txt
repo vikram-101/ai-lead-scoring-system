@@ -1,0 +1,3 @@
+Model: Gradient Boosting
+R2 Score: 0.925
+MAE: 3.71

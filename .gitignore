@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+src/lead_scoring_system/app.py

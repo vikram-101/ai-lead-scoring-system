@@ -1,0 +1,27 @@
+[project]
+name = "lead-scoring-system"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "apscheduler>=3.11.3",
+    "fastapi>=0.141.1",
+    "google-genai>=2.18.1",
+    "ipykernel>=7.3.0",
+    "joblib>=1.5.3",
+    "matplotlib>=3.11.1",
+    "numpy>=2.5.2",
+    "pandas>=3.0.5",
+    "pymongo>=4.17.0",
+    "python-dotenv>=1.2.2",
+    "scikit-learn>=1.9.0",
+    "uvicorn>=0.52.3",
+]
+
+[project.scripts]
+lead-scoring-system = "lead_scoring_system:main"
+
+[build-system]
+requires = ["uv_build>=0.12.3,<0.13.0"]
+build-backend = "uv_build"

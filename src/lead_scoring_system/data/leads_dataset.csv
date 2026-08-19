@@ -1,0 +1,1001 @@
+name,company,company_size,budget,industry,job_role,engagement_score,email_interaction_score,previous_interactions,demo_requested,previous_purchase,lead_score,priority
+Amit,Divya Solutions,132,225000.0,Education,C-level,88,68,0,False,True,49.4,Cold
+Rahul,Rahul Solutions,7,510000.0,Education,Manager,68,26,1,False,False,38.4,Cold
+Divya,Suresh Group,4484,590000.0,Finance,C-level,79,61,1,False,False,76.7,Warm
+Rahul,Karan Industries,27,126000.0,Retail,Director,35,36,3,False,False,29.9,Cold
+Karan,Anjali Solutions,265,729000.0,Education,Director,55,38,3,True,True,76.7,Warm
+Vikram,Karan Technologies,159,323000.0,Software,Director,56,48,0,False,False,50.7,Warm
+Priya,Arjun Enterprises,63,154000.0,Education,Manager,33,25,4,True,False,33.4,Cold
+Sneha,Divya Solutions,5000,105000.0,Other,Manager,53,51,1,False,False,43.8,Cold
+Pooja,Sneha Solutions,37,31000.0,Software,Manager,24,41,0,False,False,22.6,Cold
+Anjali,Anjali Systems,319,263000.0,Retail,Director,44,53,5,False,False,61.3,Warm
+Neha,Suresh Industries,217,276000.0,Education,C-level,50,56,3,False,False,49.0,Cold
+Suresh,Divya Group,27,347000.0,Manufacturing,Manager,73,100,1,True,False,56.9,Warm
+Sneha,Pooja Technologies,403,379000.0,Finance,Manager,64,31,3,False,False,65.6,Warm
+Neha,Divya Pvt Ltd,19,197000.0,Other,Director,35,51,3,True,False,34.2,Cold
+Kavita,Amit Enterprises,270,62000.0,Finance,Manager,54,64,2,False,False,40.2,Cold
+Neha,Rohan Corp,129,347000.0,Finance,Director,38,42,0,False,False,51.9,Warm
+Priya,Karan Technologies,1554,486000.0,Healthcare,C-level,51,70,4,False,False,67.8,Warm
+Rohan,Neha Solutions,26,99000.0,Other,C-level,66,42,4,False,False,27.1,Cold
+Arjun,Pooja Technologies,71,562000.0,Retail,Director,70,75,0,False,False,65.5,Warm
+Vikram,Karan Pvt Ltd,63,354000.0,Education,Manager,64,37,1,False,False,36.2,Cold
+Divya,Divya Enterprises,219,133000.0,Software,C-level,79,57,5,True,True,74.6,Warm
+Suresh,Vikram Group,680,232000.0,Manufacturing,Manager,78,65,4,False,True,62.3,Warm
+Karan,Arjun Technologies,233,43000.0,Manufacturing,C-level,43,60,1,False,True,31.9,Cold
+Pooja,Karan Enterprises,90,83000.0,Manufacturing,Director,75,46,3,True,False,46.9,Cold
+Priya,Divya Labs,146,318000.0,Finance,C-level,25,31,1,False,False,48.0,Cold
+Amit,Suresh Labs,2130,827000.0,Other,C-level,47,54,2,False,False,65.2,Warm
+Sneha,Arjun Systems,19,126000.0,Manufacturing,C-level,11,15,2,False,False,25.3,Cold
+Kavita,Arjun Labs,108,735000.0,Education,C-level,86,64,3,False,False,63.4,Warm
+Arjun,Sneha Systems,263,804000.0,Software,C-level,86,63,3,True,True,97.5,Hot
+Rahul,Pooja Pvt Ltd,232,197000.0,Software,C-level,55,47,1,False,False,50.2,Warm
+Arjun,Amit Labs,592,140000.0,Software,Manager,67,48,4,True,False,58.9,Warm
+Priya,Suresh Corp,79,378000.0,Finance,Individual Contributor,45,33,5,False,False,41.4,Cold
+Suresh,Suresh Solutions,135,443000.0,Healthcare,Director,48,97,3,True,False,65.3,Warm
+Sneha,Sneha Systems,70,228000.0,Software,Director,60,58,0,True,False,59.6,Warm
+Sneha,Pooja Solutions,56,172000.0,Manufacturing,Director,59,69,2,False,False,32.8,Cold
+Suresh,Arjun Technologies,491,406000.0,Retail,Individual Contributor,61,48,3,False,True,63.8,Warm
+Kavita,Kavita Systems,175,185000.0,Software,Individual Contributor,83,48,5,False,False,50.7,Warm
+Rohan,Vikram Labs,82,49000.0,Other,Director,63,13,0,True,False,34.8,Cold
+Arjun,Suresh Labs,34,248000.0,Healthcare,Director,26,67,2,False,False,43.3,Cold
+Divya,Arjun Technologies,203,90000.0,Finance,C-level,64,51,4,True,True,63.6,Warm
+Pooja,Arjun Industries,82,390000.0,Education,Director,41,47,4,True,False,58.9,Warm
+Neha,Priya Systems,122,736000.0,Software,Individual Contributor,52,61,3,True,False,68.2,Warm
+Neha,Rahul Solutions,24,993000.0,Retail,C-level,76,53,4,False,False,60.0,Warm
+Vikram,Sneha Pvt Ltd,7,116000.0,Retail,Manager,18,42,0,False,False,28.4,Cold
+Kavita,Anjali Solutions,754,103000.0,Finance,Director,34,27,0,True,False,45.7,Cold
+Priya,Arjun Systems,133,96000.0,Software,Director,51,34,2,False,False,45.0,Cold
+Sneha,Anjali Enterprises,289,109000.0,Manufacturing,Director,40,53,1,False,False,43.6,Cold
+Karan,Suresh Group,714,177000.0,Finance,Director,79,84,3,True,True,76.0,Warm
+Priya,Amit Enterprises,42,126000.0,Software,Manager,46,45,5,False,False,43.9,Cold
+Vikram,Neha Systems,130,174000.0,Software,Individual Contributor,89,41,5,False,True,47.0,Cold
+Arjun,Kavita Enterprises,57,145000.0,Education,Director,21,61,2,False,False,26.1,Cold
+Rahul,Rahul Pvt Ltd,98,300000.0,Other,C-level,19,46,2,False,False,32.3,Cold
+Kavita,Arjun Corp,69,1142000.0,Other,C-level,70,81,3,False,True,67.2,Warm
+Amit,Arjun Technologies,39,1351000.0,Manufacturing,C-level,17,22,3,True,False,50.1,Warm
+Rahul,Vikram Pvt Ltd,241,962000.0,Other,Director,56,52,2,False,False,62.2,Warm
+Suresh,Sneha Solutions,480,220000.0,Other,Individual Contributor,84,52,3,True,False,59.6,Warm
+Neha,Divya Industries,219,21000.0,Healthcare,Individual Contributor,47,49,0,False,False,28.6,Cold
+Rohan,Rahul Industries,211,619000.0,Finance,Individual Contributor,68,48,2,False,False,64.0,Warm
+Suresh,Pooja Systems,414,514000.0,Education,Individual Contributor,90,58,2,False,False,65.2,Warm
+Rahul,Pooja Labs,688,893000.0,Healthcare,C-level,95,80,3,False,False,77.6,Warm
+Pooja,Karan Systems,136,2034000.0,Finance,C-level,48,45,6,False,False,77.1,Warm
+Pooja,Priya Enterprises,54,236000.0,Finance,C-level,63,71,2,True,False,58.1,Warm
+Arjun,Anjali Technologies,604,46000.0,Healthcare,Manager,70,74,4,True,False,51.1,Warm
+Vikram,Rahul Solutions,106,423000.0,Software,Individual Contributor,85,67,0,True,False,64.2,Warm
+Neha,Arjun Solutions,33,121000.0,Manufacturing,Manager,41,38,1,False,False,19.9,Cold
+Rohan,Rahul Group,1420,54000.0,Retail,Individual Contributor,63,0,2,True,True,52.9,Warm
+Suresh,Sneha Pvt Ltd,29,112000.0,Other,Manager,40,76,0,False,False,26.2,Cold
+Anjali,Suresh Solutions,99,177000.0,Retail,C-level,72,60,3,False,False,48.6,Cold
+Anjali,Rohan Enterprises,1534,157000.0,Education,Individual Contributor,65,52,1,True,False,50.9,Warm
+Suresh,Divya Industries,15,52000.0,Manufacturing,Director,52,1,0,False,False,19.5,Cold
+Vikram,Vikram Systems,81,105000.0,Manufacturing,Manager,26,35,4,False,False,24.8,Cold
+Kavita,Kavita Systems,50,362000.0,Retail,Manager,45,70,4,False,False,45.7,Cold
+Amit,Suresh Solutions,14,59000.0,Manufacturing,Manager,41,44,2,False,False,25.8,Cold
+Pooja,Karan Systems,306,56000.0,Healthcare,Manager,46,5,3,False,False,39.1,Cold
+Rahul,Sneha Labs,45,1077000.0,Education,C-level,74,74,4,False,True,68.4,Warm
+Suresh,Neha Systems,424,82000.0,Manufacturing,Manager,60,58,4,True,False,57.2,Warm
+Suresh,Divya Technologies,772,780000.0,Education,Manager,60,68,4,False,True,74.8,Warm
+Sneha,Amit Group,45,628000.0,Other,Individual Contributor,59,62,4,False,False,49.9,Cold
+Kavita,Amit Labs,22,398000.0,Retail,C-level,34,34,1,False,False,43.5,Cold
+Karan,Kavita Group,18,240000.0,Education,Manager,52,36,4,False,False,39.0,Cold
+Divya,Pooja Labs,171,1592000.0,Retail,Manager,100,62,2,True,False,74.6,Warm
+Karan,Karan Group,15,75000.0,Retail,Director,40,59,3,True,False,35.7,Cold
+Vikram,Sneha Enterprises,1084,1969000.0,Retail,Manager,57,72,2,True,True,76.4,Warm
+Sneha,Rohan Industries,380,83000.0,Healthcare,Director,28,42,2,False,False,41.5,Cold
+Kavita,Rohan Technologies,136,546000.0,Education,C-level,77,77,2,True,False,67.5,Warm
+Divya,Rahul Corp,54,202000.0,Finance,Individual Contributor,46,58,3,False,False,39.0,Cold
+Pooja,Pooja Corp,196,473000.0,Retail,C-level,61,50,4,False,False,64.2,Warm
+Sneha,Kavita Systems,259,380000.0,Manufacturing,Manager,59,55,4,False,False,62.2,Warm
+Suresh,Karan Corp,125,675000.0,Healthcare,Director,45,44,2,True,False,63.9,Warm
+Neha,Arjun Technologies,85,247000.0,Education,C-level,28,62,1,False,True,41.4,Cold
+Rohan,Amit Labs,164,49000.0,Retail,Manager,78,75,4,False,True,52.5,Warm
+Anjali,Anjali Corp,252,185000.0,Finance,C-level,48,72,4,True,True,77.0,Warm
+Priya,Kavita Technologies,56,41000.0,Healthcare,Individual Contributor,59,30,1,False,False,22.2,Cold
+Suresh,Priya Technologies,350,459000.0,Education,Manager,81,57,3,False,False,67.1,Warm
+Neha,Amit Systems,198,484000.0,Other,C-level,68,82,2,True,False,76.1,Warm
+Kavita,Divya Enterprises,8,516000.0,Finance,Director,37,52,0,True,False,61.4,Warm
+Divya,Priya Industries,114,286000.0,Other,Director,48,80,1,False,False,42.4,Cold
+Suresh,Rohan Corp,259,157000.0,Healthcare,C-level,71,93,3,True,True,79.2,Warm
+Sneha,Priya Enterprises,151,389000.0,Education,C-level,58,58,0,False,False,44.8,Cold
+Neha,Karan Technologies,99,201000.0,Other,Manager,74,30,0,False,False,33.4,Cold
+Suresh,Anjali Technologies,122,339000.0,Healthcare,Director,100,89,5,False,True,73.6,Warm
+Anjali,Suresh Labs,101,124000.0,Other,Director,75,26,1,False,False,36.5,Cold
+Suresh,Vikram Group,1215,586000.0,Education,C-level,56,47,3,True,False,82.3,Hot
+Vikram,Anjali Systems,286,317000.0,Other,Manager,58,38,4,False,False,56.7,Warm
+Karan,Kavita Corp,3,52000.0,Other,Individual Contributor,48,42,2,False,False,16.6,Cold
+Sneha,Anjali Enterprises,184,415000.0,Healthcare,C-level,56,81,4,False,True,75.4,Warm
+Arjun,Rahul Group,1233,290000.0,Healthcare,Director,74,43,1,False,False,56.6,Warm
+Karan,Sneha Labs,131,184000.0,Finance,C-level,39,44,1,False,False,46.5,Cold
+Vikram,Sneha Corp,175,30000.0,Education,Manager,97,33,0,False,True,48.4,Cold
+Arjun,Arjun Pvt Ltd,457,202000.0,Education,C-level,100,61,8,False,False,71.9,Warm
+Kavita,Vikram Enterprises,390,67000.0,Retail,Individual Contributor,74,31,2,False,False,41.0,Cold
+Divya,Arjun Industries,84,803000.0,Healthcare,Director,58,40,5,False,False,58.4,Warm
+Karan,Arjun Enterprises,58,109000.0,Finance,C-level,44,82,3,False,False,36.0,Cold
+Vikram,Rahul Group,42,85000.0,Software,Individual Contributor,79,54,2,False,False,38.0,Cold
+Divya,Amit Labs,35,2752000.0,Finance,C-level,81,72,2,False,False,61.6,Warm
+Kavita,Anjali Industries,283,149000.0,Software,Individual Contributor,62,33,4,False,False,45.4,Cold
+Priya,Rohan Labs,549,275000.0,Software,C-level,65,45,3,False,True,64.4,Warm
+Karan,Neha Enterprises,308,161000.0,Software,Manager,64,62,4,False,True,59.5,Warm
+Neha,Neha Systems,73,57000.0,Software,Individual Contributor,38,31,3,True,False,37.3,Cold
+Pooja,Neha Corp,25,303000.0,Other,Manager,54,39,0,False,False,34.5,Cold
+Priya,Karan Systems,1113,621000.0,Healthcare,Manager,22,45,1,True,False,65.0,Warm
+Amit,Arjun Solutions,47,198000.0,Education,Director,36,13,0,False,False,30.8,Cold
+Vikram,Rahul Systems,114,400000.0,Finance,C-level,64,70,7,True,False,75.6,Warm
+Suresh,Sneha Enterprises,523,226000.0,Healthcare,Manager,41,42,1,False,False,43.9,Cold
+Sneha,Rohan Solutions,50,331000.0,Other,Individual Contributor,46,15,4,False,False,34.0,Cold
+Amit,Priya Technologies,80,299000.0,Manufacturing,C-level,60,28,1,True,False,61.5,Warm
+Vikram,Kavita Solutions,374,2353000.0,Finance,Manager,54,75,5,False,False,74.1,Warm
+Arjun,Arjun Labs,75,295000.0,Retail,Manager,58,35,1,False,False,38.5,Cold
+Anjali,Neha Enterprises,122,168000.0,Retail,C-level,57,84,2,True,False,50.0,Warm
+Neha,Neha Technologies,46,241000.0,Software,C-level,65,49,3,False,False,49.2,Cold
+Karan,Amit Labs,33,185000.0,Other,Manager,79,52,2,True,True,52.1,Warm
+Neha,Rohan Labs,108,250000.0,Manufacturing,Manager,49,29,3,False,True,41.4,Cold
+Priya,Pooja Industries,228,1324000.0,Software,Director,75,84,0,True,True,81.1,Hot
+Rohan,Pooja Group,201,198000.0,Healthcare,Director,75,39,0,True,False,55.3,Warm
+Karan,Rohan Group,278,41000.0,Software,Director,90,34,3,True,False,68.9,Warm
+Rohan,Rahul Systems,71,433000.0,Other,Individual Contributor,28,14,1,False,False,38.4,Cold
+Karan,Rahul Systems,37,166000.0,Manufacturing,Director,50,23,1,False,False,26.7,Cold
+Divya,Kavita Solutions,100,185000.0,Healthcare,Manager,36,25,1,False,False,34.9,Cold
+Amit,Vikram Group,514,563000.0,Software,Individual Contributor,68,58,1,False,True,68.2,Warm
+Priya,Kavita Solutions,58,72000.0,Software,Manager,49,54,3,True,False,50.6,Warm
+Arjun,Divya Enterprises,324,726000.0,Education,Individual Contributor,79,57,2,False,False,65.0,Warm
+Arjun,Amit Corp,51,2108000.0,Retail,Manager,53,58,7,False,True,65.2,Warm
+Pooja,Priya Enterprises,75,277000.0,Finance,Individual Contributor,62,40,2,False,False,35.5,Cold
+Arjun,Vikram Technologies,36,135000.0,Other,Individual Contributor,17,41,2,False,False,20.0,Cold
+Suresh,Kavita Industries,208,567000.0,Healthcare,Manager,59,40,0,False,False,58.7,Warm
+Arjun,Rohan Labs,34,192000.0,Retail,Manager,23,48,1,False,False,30.4,Cold
+Rohan,Sneha Corp,228,96000.0,Healthcare,Individual Contributor,55,57,7,False,True,52.8,Warm
+Rohan,Rohan Industries,750,352000.0,Software,Director,54,92,2,True,False,77.8,Warm
+Anjali,Pooja Solutions,233,285000.0,Retail,Individual Contributor,33,23,0,True,False,44.8,Cold
+Rahul,Divya Industries,313,15000.0,Other,Individual Contributor,62,37,1,True,False,45.2,Cold
+Karan,Vikram Pvt Ltd,26,756000.0,Retail,Individual Contributor,60,44,0,False,True,49.9,Cold
+Pooja,Suresh Group,55,475000.0,Manufacturing,Manager,50,45,1,False,False,43.0,Cold
+Kavita,Pooja Group,279,129000.0,Retail,Individual Contributor,39,44,3,False,False,34.2,Cold
+Vikram,Sneha Solutions,457,552000.0,Software,Manager,69,39,4,True,False,76.3,Warm
+Priya,Kavita Industries,110,324000.0,Retail,Individual Contributor,72,39,2,False,False,42.3,Cold
+Rahul,Vikram Pvt Ltd,124,68000.0,Education,Director,24,29,1,True,False,38.5,Cold
+Suresh,Karan Industries,128,138000.0,Healthcare,Director,72,38,3,True,False,55.0,Warm
+Suresh,Sneha Labs,25,82000.0,Finance,Director,27,20,0,False,False,22.4,Cold
+Vikram,Suresh Technologies,167,330000.0,Manufacturing,C-level,52,37,1,False,False,52.1,Warm
+Priya,Kavita Pvt Ltd,216,686000.0,Other,Manager,26,24,3,False,False,45.6,Cold
+Kavita,Pooja Enterprises,74,822000.0,Manufacturing,C-level,54,36,7,False,False,59.4,Warm
+Rohan,Neha Pvt Ltd,98,76000.0,Finance,Individual Contributor,50,59,3,False,True,38.1,Cold
+Pooja,Suresh Corp,58,595000.0,Manufacturing,Director,62,58,2,False,True,63.2,Warm
+Rahul,Neha Labs,61,125000.0,Healthcare,C-level,41,27,2,False,False,27.7,Cold
+Neha,Karan Pvt Ltd,748,327000.0,Other,Individual Contributor,61,71,3,True,False,59.7,Warm
+Divya,Karan Industries,2604,119000.0,Finance,Manager,69,57,4,False,False,47.2,Cold
+Karan,Kavita Technologies,13,105000.0,Education,C-level,54,66,1,False,True,36.0,Cold
+Anjali,Divya Corp,22,1000000.0,Manufacturing,Director,93,77,5,True,False,79.2,Warm
+Anjali,Arjun Group,236,482000.0,Finance,C-level,36,51,2,False,False,62.2,Warm
+Kavita,Karan Enterprises,253,632000.0,Healthcare,Manager,80,43,4,True,False,77.4,Warm
+Priya,Amit Systems,583,173000.0,Education,Individual Contributor,63,61,6,False,False,52.2,Warm
+Pooja,Karan Group,696,603000.0,Other,Manager,64,67,2,False,False,68.3,Warm
+Priya,Kavita Pvt Ltd,174,146000.0,Healthcare,C-level,58,80,2,True,True,64.0,Warm
+Suresh,Anjali Solutions,806,482000.0,Education,Manager,89,67,6,True,False,85.8,Hot
+Arjun,Anjali Systems,166,915000.0,Education,C-level,75,73,2,True,False,71.3,Warm
+Vikram,Suresh Corp,197,1385000.0,Education,C-level,57,62,3,False,False,68.9,Warm
+Kavita,Priya Solutions,31,227000.0,Software,C-level,37,64,2,False,False,52.1,Warm
+Suresh,Divya Group,359,315000.0,Finance,Individual Contributor,62,62,3,True,False,70.8,Warm
+Suresh,Priya Labs,63,94000.0,Retail,Manager,27,13,4,False,False,15.5,Cold
+Anjali,Sneha Labs,633,407000.0,Manufacturing,Director,46,30,2,False,True,59.3,Warm
+Suresh,Anjali Group,446,338000.0,Retail,Individual Contributor,94,84,2,False,True,71.0,Warm
+Priya,Pooja Labs,82,364000.0,Education,Director,45,56,0,True,True,56.1,Warm
+Rahul,Rahul Pvt Ltd,9,273000.0,Software,Manager,54,55,4,False,False,49.8,Cold
+Pooja,Karan Group,329,473000.0,Finance,Individual Contributor,72,77,6,False,True,80.6,Hot
+Karan,Amit Technologies,70,219000.0,Finance,Manager,70,58,2,False,True,47.7,Cold
+Vikram,Karan Industries,22,87000.0,Healthcare,Individual Contributor,43,41,1,True,False,33.5,Cold
+Karan,Karan Systems,70,173000.0,Software,Manager,50,39,1,True,True,48.8,Cold
+Divya,Rohan Group,178,106000.0,Manufacturing,Director,60,41,3,True,True,54.4,Warm
+Arjun,Neha Solutions,685,1289000.0,Software,Manager,58,49,2,False,False,66.8,Warm
+Karan,Pooja Group,311,35000.0,Retail,Manager,47,27,5,False,True,48.8,Cold
+Kavita,Pooja Corp,170,170000.0,Healthcare,Director,42,60,6,False,True,60.7,Warm
+Priya,Priya Pvt Ltd,259,269000.0,Retail,Manager,81,55,3,False,False,50.8,Warm
+Neha,Arjun Pvt Ltd,250,167000.0,Manufacturing,C-level,39,39,4,True,False,47.7,Cold
+Neha,Rohan Solutions,184,835000.0,Retail,Individual Contributor,100,65,1,False,False,63.2,Warm
+Karan,Arjun Systems,163,203000.0,Other,Manager,93,59,3,False,False,42.1,Cold
+Kavita,Rohan Corp,154,288000.0,Retail,Manager,50,29,5,True,False,55.6,Warm
+Anjali,Amit Labs,80,103000.0,Education,C-level,49,39,1,False,False,34.6,Cold
+Divya,Divya Pvt Ltd,563,191000.0,Software,C-level,49,46,0,True,False,69.8,Warm
+Arjun,Anjali Solutions,218,127000.0,Other,C-level,40,7,2,True,False,45.6,Cold
+Pooja,Divya Technologies,63,276000.0,Retail,Director,67,9,1,False,False,39.3,Cold
+Sneha,Amit Labs,96,449000.0,Healthcare,Manager,22,34,2,False,False,36.6,Cold
+Priya,Karan Enterprises,48,545000.0,Finance,Individual Contributor,53,46,0,True,False,59.2,Warm
+Karan,Pooja Group,103,1132000.0,Manufacturing,C-level,73,56,7,True,False,76.6,Warm
+Rahul,Amit Enterprises,145,68000.0,Software,Manager,44,37,3,False,False,39.0,Cold
+Amit,Pooja Industries,256,237000.0,Education,Manager,20,55,2,False,False,36.7,Cold
+Rahul,Priya Group,167,257000.0,Manufacturing,Manager,62,28,3,True,False,52.0,Warm
+Vikram,Divya Pvt Ltd,25,323000.0,Finance,Director,17,54,1,False,False,33.2,Cold
+Amit,Amit Technologies,104,69000.0,Other,Individual Contributor,59,33,0,False,False,13.8,Cold
+Neha,Kavita Corp,82,17000.0,Education,C-level,61,6,1,False,False,22.0,Cold
+Priya,Vikram Labs,536,142000.0,Healthcare,C-level,65,79,2,False,False,50.5,Warm
+Neha,Rahul Technologies,159,944000.0,Manufacturing,Manager,40,29,0,True,False,59.7,Warm
+Vikram,Vikram Pvt Ltd,615,828000.0,Finance,C-level,46,57,2,True,True,83.8,Hot
+Rohan,Arjun Systems,263,491000.0,Software,C-level,57,58,3,False,True,75.7,Warm
+Rohan,Pooja Technologies,468,57000.0,Manufacturing,Manager,30,17,2,False,False,27.9,Cold
+Neha,Rohan Corp,37,182000.0,Retail,C-level,55,56,3,False,False,27.4,Cold
+Anjali,Amit Labs,121,329000.0,Education,Manager,69,45,1,True,False,61.2,Warm
+Priya,Sneha Corp,149,314000.0,Other,Manager,52,26,1,True,False,45.5,Cold
+Divya,Anjali Systems,147,393000.0,Manufacturing,Director,57,32,4,True,False,60.9,Warm
+Arjun,Arjun Systems,49,536000.0,Healthcare,Manager,81,53,3,True,False,63.6,Warm
+Pooja,Amit Systems,599,347000.0,Other,C-level,67,88,7,False,False,72.4,Warm
+Karan,Karan Solutions,61,46000.0,Software,Director,27,38,2,False,False,29.9,Cold
+Neha,Karan Labs,202,114000.0,Finance,Individual Contributor,64,31,2,False,False,36.7,Cold
+Neha,Anjali Pvt Ltd,4,160000.0,Education,Individual Contributor,46,40,2,False,False,22.1,Cold
+Karan,Vikram Technologies,44,32000.0,Finance,Manager,53,0,0,False,False,30.3,Cold
+Rahul,Anjali Enterprises,275,77000.0,Healthcare,Manager,66,55,2,True,False,55.3,Warm
+Neha,Arjun Corp,758,53000.0,Software,Manager,51,56,4,False,True,52.0,Warm
+Rahul,Kavita Systems,190,556000.0,Retail,Director,100,100,10,False,False,78.7,Warm
+Kavita,Priya Pvt Ltd,302,376000.0,Healthcare,Manager,55,41,2,False,False,50.8,Warm
+Divya,Kavita Labs,25,159000.0,Education,C-level,70,58,2,False,True,43.1,Cold
+Vikram,Rohan Corp,303,1265000.0,Manufacturing,Director,58,60,3,True,False,78.9,Warm
+Suresh,Anjali Solutions,410,1152000.0,Other,Director,54,37,2,False,False,65.9,Warm
+Divya,Pooja Industries,35,25000.0,Healthcare,C-level,18,48,0,False,False,14.1,Cold
+Vikram,Suresh Corp,47,451000.0,Healthcare,C-level,87,49,1,False,False,55.6,Warm
+Rohan,Suresh Pvt Ltd,53,385000.0,Finance,Manager,95,55,4,False,False,57.5,Warm
+Suresh,Arjun Solutions,300,397000.0,Other,C-level,63,68,3,False,False,64.2,Warm
+Vikram,Amit Systems,377,90000.0,Education,Manager,73,76,3,False,True,52.4,Warm
+Amit,Amit Solutions,469,696000.0,Healthcare,Individual Contributor,56,51,4,False,False,64.3,Warm
+Pooja,Divya Group,39,154000.0,Healthcare,Individual Contributor,53,45,2,True,False,42.7,Cold
+Neha,Rohan Industries,89,322000.0,Software,Manager,65,50,1,False,False,46.3,Cold
+Amit,Divya Labs,118,111000.0,Finance,C-level,65,70,1,False,False,50.0,Warm
+Kavita,Neha Enterprises,237,76000.0,Software,Director,71,64,1,False,False,51.8,Warm
+Vikram,Karan Labs,78,86000.0,Other,Manager,71,69,5,True,False,45.3,Cold
+Kavita,Kavita Enterprises,161,976000.0,Other,C-level,74,70,2,False,False,70.2,Warm
+Pooja,Sneha Industries,1241,116000.0,Other,Director,55,50,1,False,False,48.8,Cold
+Arjun,Priya Group,113,509000.0,Other,C-level,59,49,4,False,False,62.1,Warm
+Kavita,Arjun Industries,118,301000.0,Other,C-level,58,16,3,True,True,46.9,Cold
+Kavita,Anjali Technologies,186,130000.0,Other,Director,74,27,2,False,False,46.4,Cold
+Priya,Anjali Systems,1022,129000.0,Retail,C-level,41,49,3,False,False,50.5,Warm
+Anjali,Karan Industries,74,655000.0,Software,Director,93,30,4,True,False,85.3,Hot
+Pooja,Amit Labs,178,144000.0,Finance,C-level,21,24,0,False,False,41.4,Cold
+Sneha,Pooja Industries,28,202000.0,Retail,Manager,31,41,1,False,True,39.4,Cold
+Karan,Vikram Systems,233,182000.0,Manufacturing,Individual Contributor,68,41,2,False,False,45.3,Cold
+Neha,Kavita Solutions,206,369000.0,Healthcare,C-level,91,64,3,True,False,83.7,Hot
+Suresh,Arjun Systems,7,172000.0,Software,Individual Contributor,34,33,4,False,False,38.3,Cold
+Sneha,Neha Corp,34,163000.0,Education,C-level,31,70,1,True,False,42.7,Cold
+Priya,Arjun Group,2249,595000.0,Finance,Manager,81,52,6,True,False,80.6,Hot
+Pooja,Kavita Technologies,204,186000.0,Manufacturing,Individual Contributor,44,45,5,False,True,42.9,Cold
+Anjali,Karan Solutions,71,89000.0,Education,Director,30,27,3,False,False,27.0,Cold
+Neha,Divya Pvt Ltd,780,652000.0,Healthcare,C-level,68,66,4,False,True,81.5,Hot
+Amit,Pooja Labs,271,448000.0,Finance,C-level,36,56,2,False,False,59.7,Warm
+Divya,Karan Labs,28,283000.0,Education,Director,82,58,9,True,True,61.1,Warm
+Rahul,Anjali Enterprises,216,170000.0,Software,Director,43,62,3,True,False,57.0,Warm
+Rahul,Karan Systems,390,408000.0,Manufacturing,Director,75,53,4,False,False,69.9,Warm
+Anjali,Vikram Solutions,140,556000.0,Healthcare,Director,45,77,2,False,False,67.0,Warm
+Rohan,Anjali Industries,1351,409000.0,Other,Director,58,85,4,False,False,68.2,Warm
+Vikram,Karan Solutions,1654,259000.0,Retail,Manager,77,87,6,True,False,77.7,Warm
+Amit,Arjun Enterprises,128,55000.0,Education,Director,79,42,7,True,False,51.6,Warm
+Kavita,Neha Corp,49,218000.0,Healthcare,C-level,48,59,0,False,False,33.7,Cold
+Pooja,Anjali Corp,163,162000.0,Finance,Manager,41,43,1,True,True,52.2,Warm
+Suresh,Suresh Corp,83,77000.0,Healthcare,Manager,42,43,3,False,True,34.9,Cold
+Rahul,Amit Labs,196,219000.0,Healthcare,Manager,44,58,3,False,True,48.7,Cold
+Anjali,Rohan Technologies,242,162000.0,Software,C-level,36,56,0,True,False,58.0,Warm
+Kavita,Karan Solutions,52,363000.0,Manufacturing,C-level,49,27,4,False,False,47.9,Cold
+Vikram,Sneha Solutions,101,570000.0,Manufacturing,C-level,50,58,2,False,False,60.2,Warm
+Arjun,Priya Enterprises,92,271000.0,Software,Manager,36,43,3,False,False,41.9,Cold
+Vikram,Divya Labs,77,177000.0,Other,C-level,66,74,5,True,False,47.5,Cold
+Divya,Kavita Solutions,117,355000.0,Finance,C-level,67,60,2,False,False,57.0,Warm
+Anjali,Divya Solutions,129,83000.0,Other,Manager,50,6,0,False,False,23.6,Cold
+Divya,Divya Industries,74,238000.0,Manufacturing,Manager,74,77,2,False,False,49.3,Cold
+Karan,Amit Systems,60,178000.0,Other,Director,13,50,2,True,False,34.0,Cold
+Kavita,Karan Group,2140,120000.0,Other,Director,78,77,4,True,False,65.2,Warm
+Divya,Divya Labs,53,280000.0,Finance,Manager,71,35,0,True,False,54.9,Warm
+Amit,Anjali Solutions,696,144000.0,Manufacturing,Director,45,63,3,True,False,57.5,Warm
+Pooja,Karan Group,592,800000.0,Retail,Director,85,45,2,False,True,80.2,Hot
+Arjun,Pooja Technologies,26,213000.0,Education,Manager,28,40,1,False,True,28.2,Cold
+Anjali,Divya Systems,260,432000.0,Other,C-level,67,34,5,True,True,76.1,Warm
+Priya,Vikram Systems,29,24000.0,Healthcare,Individual Contributor,42,58,1,False,False,22.0,Cold
+Neha,Arjun Solutions,351,189000.0,Education,Individual Contributor,77,83,9,True,False,64.9,Warm
+Amit,Suresh Pvt Ltd,44,207000.0,Manufacturing,Manager,59,40,1,False,False,35.7,Cold
+Priya,Rahul Enterprises,13,265000.0,Other,Individual Contributor,44,45,1,True,False,34.7,Cold
+Rahul,Kavita Group,33,469000.0,Education,C-level,34,70,4,False,False,51.7,Warm
+Karan,Suresh Corp,15,11000.0,Healthcare,Manager,35,44,3,False,False,22.5,Cold
+Rohan,Kavita Labs,180,181000.0,Healthcare,Director,43,27,4,False,True,49.0,Cold
+Anjali,Divya Pvt Ltd,40,110000.0,Finance,Director,54,55,4,True,False,47.7,Cold
+Anjali,Sneha Labs,28,334000.0,Retail,C-level,55,27,0,False,False,40.3,Cold
+Vikram,Rohan Corp,122,70000.0,Software,C-level,68,82,7,True,True,68.5,Warm
+Neha,Divya Pvt Ltd,122,290000.0,Finance,Individual Contributor,51,40,3,False,False,45.0,Cold
+Kavita,Vikram Labs,60,30000.0,Finance,Manager,50,14,0,False,False,25.1,Cold
+Sneha,Sneha Pvt Ltd,292,957000.0,Software,C-level,48,78,2,True,False,90.8,Hot
+Suresh,Suresh Labs,272,45000.0,Software,C-level,50,43,1,False,False,42.0,Cold
+Vikram,Divya Pvt Ltd,35,90000.0,Healthcare,Manager,21,43,0,False,False,21.7,Cold
+Arjun,Sneha Pvt Ltd,132,183000.0,Other,Director,66,61,1,True,True,49.6,Cold
+Arjun,Vikram Solutions,109,262000.0,Manufacturing,Director,51,19,3,False,False,42.0,Cold
+Anjali,Arjun Pvt Ltd,82,153000.0,Finance,Individual Contributor,72,64,2,True,False,46.4,Cold
+Rahul,Rahul Technologies,38,11000.0,Other,C-level,39,23,1,False,False,19.1,Cold
+Amit,Neha Group,145,78000.0,Finance,Manager,25,13,1,False,False,26.2,Cold
+Neha,Divya Enterprises,23,33000.0,Finance,Director,44,12,1,False,False,26.6,Cold
+Divya,Neha Enterprises,256,56000.0,Manufacturing,Director,39,26,2,False,False,32.6,Cold
+Rohan,Neha Enterprises,1348,106000.0,Retail,Individual Contributor,27,15,3,False,False,30.1,Cold
+Neha,Kavita Enterprises,44,115000.0,Other,Individual Contributor,43,60,2,False,False,29.6,Cold
+Divya,Rahul Labs,533,351000.0,Education,Individual Contributor,18,65,2,False,False,46.2,Cold
+Rohan,Amit Systems,104,55000.0,Finance,Manager,27,52,2,False,False,27.5,Cold
+Kavita,Anjali Corp,132,159000.0,Software,Manager,75,13,1,False,False,41.1,Cold
+Neha,Kavita Technologies,860,1371000.0,Finance,Director,47,51,2,True,False,85.1,Hot
+Suresh,Kavita Group,130,32000.0,Education,C-level,57,46,4,True,False,44.9,Cold
+Anjali,Arjun Pvt Ltd,930,130000.0,Retail,C-level,47,78,1,True,False,56.8,Warm
+Divya,Vikram Labs,61,204000.0,Education,Individual Contributor,26,28,0,False,False,18.8,Cold
+Vikram,Karan Enterprises,74,315000.0,Finance,Individual Contributor,35,72,3,True,False,50.8,Warm
+Anjali,Arjun Enterprises,557,21000.0,Education,C-level,72,51,2,False,False,42.9,Cold
+Rohan,Pooja Pvt Ltd,52,315000.0,Healthcare,C-level,84,62,6,False,False,54.1,Warm
+Divya,Priya Pvt Ltd,296,197000.0,Other,Manager,99,100,1,True,True,68.3,Warm
+Pooja,Arjun Enterprises,702,506000.0,Retail,Manager,70,53,5,False,True,71.5,Warm
+Neha,Sneha Systems,41,263000.0,Manufacturing,Manager,74,85,2,True,False,57.2,Warm
+Rahul,Priya Corp,477,72000.0,Software,Manager,76,38,3,False,False,49.4,Cold
+Rahul,Arjun Industries,177,218000.0,Healthcare,Manager,52,63,5,True,False,58.0,Warm
+Suresh,Sneha Enterprises,853,81000.0,Retail,Manager,49,47,2,False,False,45.9,Cold
+Suresh,Neha Systems,94,90000.0,Healthcare,Director,63,37,1,True,False,51.4,Warm
+Amit,Rohan Industries,615,176000.0,Manufacturing,Manager,53,59,4,False,True,52.5,Warm
+Divya,Pooja Enterprises,750,422000.0,Software,Individual Contributor,68,48,5,True,False,74.4,Warm
+Anjali,Vikram Labs,4073,569000.0,Software,C-level,75,71,3,False,True,81.6,Hot
+Pooja,Arjun Labs,21,591000.0,Education,Manager,45,28,2,False,False,46.1,Cold
+Kavita,Suresh Enterprises,15,482000.0,Healthcare,C-level,54,64,6,True,True,74.2,Warm
+Neha,Suresh Systems,339,211000.0,Education,Director,15,34,1,False,False,37.3,Cold
+Rohan,Arjun Pvt Ltd,48,135000.0,Finance,Manager,48,0,3,False,False,27.8,Cold
+Kavita,Anjali Systems,309,203000.0,Software,Director,56,43,0,True,False,60.4,Warm
+Anjali,Vikram Technologies,149,314000.0,Software,C-level,73,65,2,True,False,72.4,Warm
+Priya,Kavita Enterprises,61,264000.0,Healthcare,Manager,42,78,2,False,True,41.5,Cold
+Divya,Karan Enterprises,575,329000.0,Finance,Director,36,19,1,False,False,57.4,Warm
+Neha,Sneha Systems,488,303000.0,Education,C-level,66,55,6,False,False,60.6,Warm
+Anjali,Rohan Group,261,650000.0,Finance,Manager,15,42,1,False,False,55.1,Warm
+Karan,Sneha Solutions,54,449000.0,Retail,Manager,28,42,1,False,False,36.0,Cold
+Neha,Priya Technologies,41,48000.0,Manufacturing,Director,44,75,2,False,True,34.4,Cold
+Amit,Amit Pvt Ltd,79,918000.0,Other,Manager,58,35,6,False,False,51.2,Warm
+Neha,Kavita Solutions,19,31000.0,Other,Manager,46,50,1,True,False,29.7,Cold
+Rohan,Kavita Technologies,1129,438000.0,Manufacturing,Director,51,47,6,True,True,85.7,Hot
+Rohan,Vikram Technologies,127,636000.0,Manufacturing,Director,48,44,2,False,False,55.0,Warm
+Divya,Priya Group,374,1552000.0,Education,C-level,78,91,2,True,False,81.5,Hot
+Rahul,Vikram Corp,18,243000.0,Software,Individual Contributor,48,49,0,True,False,42.0,Cold
+Suresh,Rohan Pvt Ltd,214,1369000.0,Finance,Manager,56,60,3,False,False,67.8,Warm
+Priya,Suresh Group,105,277000.0,Retail,Manager,54,22,3,False,False,45.6,Cold
+Arjun,Rohan Group,22,122000.0,Finance,Manager,73,31,4,True,True,54.3,Warm
+Rahul,Vikram Labs,178,51000.0,Finance,Manager,36,46,1,True,True,51.3,Warm
+Sneha,Sneha Labs,119,97000.0,Education,Manager,52,45,2,False,False,33.4,Cold
+Karan,Priya Technologies,224,478000.0,Healthcare,C-level,76,80,5,True,False,91.0,Hot
+Rahul,Sneha Systems,251,118000.0,Other,Manager,38,33,2,False,False,25.9,Cold
+Divya,Pooja Technologies,468,220000.0,Software,C-level,81,34,3,True,False,76.1,Warm
+Sneha,Karan Technologies,597,413000.0,Finance,Manager,76,55,3,True,True,87.7,Hot
+Divya,Neha Pvt Ltd,52,532000.0,Finance,Manager,45,33,0,True,False,54.0,Warm
+Vikram,Amit Group,157,266000.0,Manufacturing,Manager,22,62,2,False,False,34.6,Cold
+Neha,Divya Industries,122,56000.0,Finance,Director,83,71,3,True,False,53.9,Warm
+Anjali,Suresh Corp,37,355000.0,Education,Manager,20,39,2,False,True,35.0,Cold
+Vikram,Rohan Industries,154,199000.0,Other,Director,82,70,3,False,False,46.9,Cold
+Pooja,Divya Industries,233,507000.0,Other,Manager,40,30,4,True,False,65.1,Warm
+Rohan,Arjun Group,62,142000.0,Other,Manager,10,33,1,True,False,32.2,Cold
+Priya,Kavita Pvt Ltd,49,60000.0,Finance,Director,33,42,1,True,False,43.3,Cold
+Rohan,Suresh Technologies,182,123000.0,Software,Director,53,46,3,False,True,47.9,Cold
+Suresh,Arjun Systems,444,149000.0,Other,C-level,53,66,5,False,False,48.1,Cold
+Rahul,Sneha Systems,41,589000.0,Retail,C-level,61,58,5,False,True,70.3,Warm
+Sneha,Divya Systems,21,227000.0,Education,C-level,67,62,2,False,False,44.4,Cold
+Rohan,Kavita Group,48,54000.0,Retail,Individual Contributor,52,56,0,False,False,23.7,Cold
+Kavita,Kavita Solutions,24,257000.0,Education,Director,36,39,1,True,False,43.9,Cold
+Sneha,Anjali Pvt Ltd,32,100000.0,Other,Individual Contributor,81,45,3,False,False,29.4,Cold
+Rahul,Vikram Group,33,69000.0,Retail,C-level,68,46,2,False,False,37.1,Cold
+Anjali,Sneha Corp,98,217000.0,Manufacturing,Manager,53,43,3,False,True,41.6,Cold
+Suresh,Anjali Enterprises,91,40000.0,Manufacturing,Individual Contributor,43,19,4,False,False,23.4,Cold
+Kavita,Kavita Industries,105,191000.0,Other,Individual Contributor,68,53,4,False,False,31.0,Cold
+Kavita,Amit Group,521,184000.0,Education,Manager,77,75,3,True,False,60.7,Warm
+Priya,Pooja Technologies,1804,1111000.0,Education,Individual Contributor,49,71,4,True,False,68.7,Warm
+Priya,Divya Industries,190,187000.0,Other,C-level,63,27,1,True,False,50.5,Warm
+Suresh,Suresh Labs,224,342000.0,Software,C-level,46,72,5,False,True,65.9,Warm
+Rahul,Rahul Group,83,71000.0,Education,Director,90,77,2,True,False,49.0,Cold
+Pooja,Divya Corp,221,388000.0,Education,Director,47,85,1,False,True,54.2,Warm
+Arjun,Amit Systems,17,116000.0,Other,Individual Contributor,85,50,1,True,False,41.1,Cold
+Karan,Rohan Solutions,93,1977000.0,Finance,Manager,88,55,7,True,False,78.9,Warm
+Divya,Sneha Enterprises,1472,200000.0,Healthcare,Individual Contributor,15,48,1,False,False,31.3,Cold
+Suresh,Karan Technologies,1227,41000.0,Education,Individual Contributor,70,21,1,True,False,41.1,Cold
+Suresh,Rahul Industries,88,840000.0,Software,Director,57,32,3,False,False,61.3,Warm
+Neha,Pooja Solutions,157,188000.0,Software,Director,75,58,2,True,False,60.7,Warm
+Divya,Neha Labs,42,87000.0,Manufacturing,Individual Contributor,17,34,2,True,False,23.7,Cold
+Arjun,Neha Technologies,49,848000.0,Healthcare,C-level,65,59,3,True,False,71.0,Warm
+Neha,Amit Corp,65,28000.0,Finance,Individual Contributor,41,45,2,False,False,26.9,Cold
+Pooja,Rohan Group,185,248000.0,Software,Director,45,48,1,False,False,43.6,Cold
+Divya,Divya Solutions,99,269000.0,Healthcare,Director,67,42,4,False,False,52.1,Warm
+Sneha,Pooja Solutions,627,120000.0,Manufacturing,Manager,51,37,2,False,True,43.0,Cold
+Karan,Anjali Technologies,28,79000.0,Healthcare,Manager,34,27,2,False,False,24.0,Cold
+Anjali,Arjun Corp,276,75000.0,Education,Director,74,44,4,False,False,46.4,Cold
+Karan,Neha Enterprises,168,105000.0,Retail,C-level,45,72,4,False,False,41.5,Cold
+Rohan,Divya Industries,664,996000.0,Other,C-level,52,47,2,True,False,70.0,Warm
+Vikram,Kavita Pvt Ltd,77,499000.0,Education,Manager,48,53,1,False,False,47.0,Cold
+Kavita,Arjun Group,325,161000.0,Other,Director,40,36,5,True,False,61.0,Warm
+Priya,Neha Pvt Ltd,50,51000.0,Manufacturing,Manager,30,0,1,True,False,20.8,Cold
+Priya,Divya Group,280,74000.0,Other,Director,77,84,2,True,False,65.1,Warm
+Amit,Vikram Enterprises,730,148000.0,Finance,Manager,43,48,4,True,False,58.1,Warm
+Rohan,Vikram Labs,84,222000.0,Healthcare,Director,43,32,0,True,False,47.1,Cold
+Suresh,Kavita Systems,702,45000.0,Other,C-level,68,83,6,True,True,62.6,Warm
+Anjali,Pooja Corp,33,81000.0,Retail,C-level,49,37,2,True,False,37.9,Cold
+Pooja,Pooja Industries,142,159000.0,Other,Individual Contributor,53,66,3,False,False,32.5,Cold
+Anjali,Amit Corp,126,291000.0,Healthcare,Director,83,37,7,False,True,58.8,Warm
+Neha,Karan Systems,27,1308000.0,Healthcare,C-level,71,36,4,False,False,59.3,Warm
+Priya,Neha Systems,1968,302000.0,Healthcare,Director,72,73,3,False,False,63.1,Warm
+Rahul,Divya Labs,78,93000.0,Manufacturing,Individual Contributor,31,15,3,True,False,37.9,Cold
+Priya,Pooja Corp,63,173000.0,Education,C-level,21,29,3,False,False,25.0,Cold
+Suresh,Amit Corp,237,179000.0,Education,Manager,32,38,1,False,False,35.7,Cold
+Neha,Rohan Group,156,188000.0,Other,Director,51,72,2,True,False,52.4,Warm
+Rahul,Karan Pvt Ltd,73,81000.0,Manufacturing,Individual Contributor,38,45,1,False,False,17.8,Cold
+Priya,Priya Systems,116,130000.0,Education,Individual Contributor,66,27,0,False,False,31.2,Cold
+Neha,Suresh Corp,177,815000.0,Education,Manager,80,74,5,True,False,74.1,Warm
+Priya,Vikram Systems,109,222000.0,Other,Director,67,35,3,False,True,36.3,Cold
+Sneha,Kavita Pvt Ltd,81,23000.0,Manufacturing,Individual Contributor,39,35,1,False,False,21.4,Cold
+Amit,Anjali Technologies,162,233000.0,Retail,Manager,47,27,4,False,False,36.7,Cold
+Priya,Pooja Industries,102,50000.0,Retail,C-level,51,35,3,True,False,39.8,Cold
+Kavita,Anjali Labs,445,300000.0,Healthcare,Director,46,53,1,False,True,63.2,Warm
+Vikram,Rahul Solutions,86,313000.0,Software,Director,72,63,2,False,False,54.1,Warm
+Amit,Divya Systems,85,766000.0,Software,Manager,83,86,5,False,False,73.6,Warm
+Kavita,Sneha Corp,463,259000.0,Manufacturing,C-level,55,68,3,True,False,72.5,Warm
+Rahul,Divya Systems,13,684000.0,Education,C-level,79,38,1,False,False,51.6,Warm
+Sneha,Vikram Solutions,106,259000.0,Retail,Manager,80,45,6,True,False,63.3,Warm
+Anjali,Sneha Labs,524,107000.0,Manufacturing,C-level,60,58,1,False,True,49.9,Cold
+Suresh,Anjali Corp,105,1040000.0,Software,C-level,74,44,2,False,False,75.3,Warm
+Kavita,Neha Industries,511,46000.0,Manufacturing,Manager,45,17,0,True,False,39.5,Cold
+Neha,Priya Industries,318,407000.0,Other,Manager,86,78,3,False,False,69.9,Warm
+Divya,Amit Group,27,71000.0,Healthcare,C-level,59,35,3,True,True,53.3,Warm
+Amit,Kavita Group,992,385000.0,Retail,Director,49,46,5,True,False,72.9,Warm
+Amit,Kavita Enterprises,54,67000.0,Education,Individual Contributor,70,53,4,False,True,31.9,Cold
+Pooja,Anjali Technologies,117,91000.0,Finance,C-level,46,39,1,False,False,37.7,Cold
+Arjun,Suresh Labs,208,84000.0,Retail,C-level,67,71,4,False,False,40.3,Cold
+Kavita,Amit Solutions,61,193000.0,Retail,Manager,24,42,0,False,False,27.9,Cold
+Vikram,Sneha Group,264,41000.0,Manufacturing,C-level,23,61,5,False,False,41.1,Cold
+Karan,Kavita Group,69,65000.0,Healthcare,C-level,57,60,1,False,False,37.4,Cold
+Pooja,Anjali Group,714,146000.0,Manufacturing,C-level,56,33,5,True,False,48.7,Cold
+Sneha,Rohan Solutions,85,133000.0,Other,Manager,70,42,3,False,False,29.3,Cold
+Rahul,Kavita Enterprises,320,409000.0,Education,Individual Contributor,57,66,3,False,False,53.9,Warm
+Priya,Karan Systems,213,315000.0,Healthcare,Individual Contributor,64,76,6,True,False,68.4,Warm
+Divya,Neha Corp,83,298000.0,Finance,Manager,34,78,1,False,False,45.2,Cold
+Karan,Rahul Pvt Ltd,2192,284000.0,Finance,Manager,64,50,4,False,False,59.7,Warm
+Divya,Vikram Enterprises,267,465000.0,Manufacturing,C-level,57,46,3,False,False,67.1,Warm
+Suresh,Pooja Solutions,306,96000.0,Manufacturing,Director,75,28,0,False,False,40.3,Cold
+Vikram,Pooja Industries,63,244000.0,Finance,Individual Contributor,71,28,0,False,False,41.1,Cold
+Pooja,Sneha Corp,51,93000.0,Education,Individual Contributor,20,35,1,False,False,17.9,Cold
+Rohan,Kavita Solutions,21,68000.0,Retail,C-level,66,62,3,False,False,38.1,Cold
+Divya,Vikram Pvt Ltd,52,104000.0,Education,Individual Contributor,40,35,1,False,False,19.8,Cold
+Karan,Pooja Solutions,96,100000.0,Retail,Individual Contributor,43,39,1,False,True,37.9,Cold
+Pooja,Priya Group,33,187000.0,Education,Individual Contributor,81,53,4,False,False,38.8,Cold
+Vikram,Anjali Enterprises,261,340000.0,Retail,C-level,64,52,0,False,True,59.1,Warm
+Karan,Anjali Technologies,285,140000.0,Healthcare,Manager,36,37,1,True,False,51.5,Warm
+Priya,Pooja Industries,5,283000.0,Software,C-level,93,54,2,False,False,58.3,Warm
+Divya,Amit Enterprises,445,225000.0,Retail,Director,81,51,7,False,False,60.1,Warm
+Anjali,Vikram Solutions,74,240000.0,Finance,Individual Contributor,60,50,4,False,True,52.4,Warm
+Suresh,Vikram Systems,186,258000.0,Healthcare,Manager,69,44,3,False,True,57.3,Warm
+Kavita,Priya Industries,79,360000.0,Retail,Manager,35,0,3,False,True,33.0,Cold
+Divya,Anjali Solutions,46,108000.0,Manufacturing,Director,56,18,0,False,True,33.7,Cold
+Rohan,Priya Solutions,96,429000.0,Other,Director,35,25,4,True,True,58.1,Warm
+Karan,Pooja Industries,471,342000.0,Software,C-level,68,54,3,False,True,76.2,Warm
+Rahul,Neha Industries,138,125000.0,Education,Individual Contributor,83,57,1,True,False,50.5,Warm
+Rohan,Neha Labs,106,30000.0,Retail,Director,47,51,3,True,False,42.8,Cold
+Priya,Neha Corp,340,134000.0,Other,C-level,57,44,2,False,True,58.0,Warm
+Vikram,Suresh Solutions,30,400000.0,Healthcare,Individual Contributor,49,2,0,False,False,35.2,Cold
+Karan,Divya Technologies,230,1839000.0,Finance,Manager,53,51,1,False,False,65.2,Warm
+Neha,Arjun Systems,365,167000.0,Other,Individual Contributor,59,32,2,False,False,42.9,Cold
+Karan,Sneha Labs,138,3131000.0,Education,Director,73,27,1,False,False,55.8,Warm
+Arjun,Rahul Pvt Ltd,128,147000.0,Retail,C-level,78,70,4,False,False,53.3,Warm
+Anjali,Arjun Industries,1571,221000.0,Healthcare,C-level,81,53,2,False,False,59.0,Warm
+Neha,Priya Technologies,30,78000.0,Other,Manager,18,13,2,False,True,17.9,Cold
+Rohan,Arjun Enterprises,43,606000.0,Healthcare,C-level,22,45,1,False,False,43.8,Cold
+Rohan,Priya Group,504,222000.0,Education,Manager,40,60,3,False,False,47.4,Cold
+Arjun,Sneha Industries,239,411000.0,Manufacturing,Manager,75,100,4,True,True,82.2,Hot
+Suresh,Suresh Solutions,163,641000.0,Manufacturing,Director,41,63,1,False,False,60.3,Warm
+Rahul,Sneha Solutions,502,236000.0,Healthcare,Manager,77,65,5,False,False,64.2,Warm
+Suresh,Divya Industries,245,397000.0,Retail,C-level,84,61,6,False,True,74.8,Warm
+Kavita,Anjali Group,50,227000.0,Software,C-level,90,95,5,True,True,71.5,Warm
+Amit,Divya Enterprises,1978,128000.0,Manufacturing,Manager,55,38,0,False,True,47.2,Cold
+Karan,Rohan Enterprises,416,218000.0,Education,Individual Contributor,19,20,1,False,True,42.5,Cold
+Priya,Kavita Labs,339,73000.0,Manufacturing,C-level,40,60,0,False,False,44.5,Cold
+Anjali,Amit Enterprises,98,289000.0,Manufacturing,Director,71,66,2,False,False,53.3,Warm
+Sneha,Divya Group,54,204000.0,Other,C-level,78,94,5,True,False,58.9,Warm
+Kavita,Anjali Corp,342,1507000.0,Software,C-level,45,72,2,False,False,71.3,Warm
+Karan,Divya Corp,391,199000.0,Finance,C-level,26,36,5,False,True,54.7,Warm
+Vikram,Pooja Solutions,106,141000.0,Finance,Director,49,63,2,False,False,42.0,Cold
+Amit,Sneha Group,62,210000.0,Manufacturing,Director,50,25,3,False,False,35.6,Cold
+Vikram,Karan Enterprises,1003,318000.0,Software,Individual Contributor,92,89,1,True,False,77.4,Warm
+Vikram,Neha Enterprises,74,82000.0,Healthcare,C-level,43,31,1,False,False,31.7,Cold
+Kavita,Karan Systems,87,57000.0,Education,Manager,79,44,3,False,False,33.1,Cold
+Rahul,Rohan Technologies,55,494000.0,Education,Individual Contributor,60,49,3,False,False,44.7,Cold
+Rahul,Anjali Technologies,43,207000.0,Finance,Manager,34,46,3,False,False,40.0,Cold
+Priya,Sneha Group,66,552000.0,Other,Manager,56,54,5,False,False,52.7,Warm
+Amit,Divya Enterprises,183,46000.0,Finance,Director,53,52,2,False,False,40.3,Cold
+Rohan,Divya Pvt Ltd,390,232000.0,Software,C-level,87,65,2,True,False,74.4,Warm
+Amit,Suresh Corp,43,1989000.0,Retail,Individual Contributor,49,61,3,True,True,58.2,Warm
+Amit,Sneha Enterprises,179,366000.0,Software,Manager,34,56,3,True,False,68.3,Warm
+Pooja,Divya Pvt Ltd,110,222000.0,Healthcare,Manager,54,69,3,False,False,46.8,Cold
+Amit,Karan Solutions,262,828000.0,Healthcare,Director,40,55,3,True,False,68.1,Warm
+Priya,Arjun Pvt Ltd,783,660000.0,Finance,C-level,57,42,1,False,False,73.7,Warm
+Priya,Priya Industries,1998,641000.0,Other,C-level,49,34,3,True,False,76.9,Warm
+Rahul,Sneha Pvt Ltd,460,392000.0,Other,Manager,59,51,3,False,False,57.4,Warm
+Arjun,Rahul Enterprises,81,206000.0,Finance,C-level,50,58,1,False,False,51.4,Warm
+Pooja,Kavita Group,140,184000.0,Healthcare,Individual Contributor,57,37,4,True,False,50.5,Warm
+Karan,Amit Solutions,127,97000.0,Education,Manager,53,27,1,True,True,38.1,Cold
+Sneha,Pooja Corp,53,34000.0,Software,C-level,42,53,3,False,False,37.2,Cold
+Neha,Vikram Solutions,59,254000.0,Healthcare,Manager,65,49,2,False,True,48.9,Cold
+Karan,Amit Solutions,19,30000.0,Software,Individual Contributor,15,17,1,False,False,13.0,Cold
+Kavita,Rahul Industries,570,71000.0,Other,Individual Contributor,76,39,3,True,True,57.2,Warm
+Rohan,Suresh Corp,196,148000.0,Manufacturing,Director,45,56,2,False,False,33.9,Cold
+Kavita,Amit Technologies,74,1926000.0,Finance,Director,50,59,4,False,True,69.5,Warm
+Rohan,Arjun Labs,93,667000.0,Manufacturing,Manager,64,56,3,True,False,62.0,Warm
+Suresh,Karan Group,508,545000.0,Software,C-level,97,58,5,True,False,91.3,Hot
+Rohan,Karan Pvt Ltd,103,94000.0,Finance,Manager,66,27,3,False,False,37.6,Cold
+Arjun,Anjali Corp,1,274000.0,Retail,Manager,51,41,2,False,False,37.1,Cold
+Karan,Karan Enterprises,234,150000.0,Healthcare,C-level,68,40,5,True,True,69.3,Warm
+Neha,Sneha Industries,143,300000.0,Software,Individual Contributor,83,4,4,False,False,47.6,Cold
+Karan,Divya Technologies,260,177000.0,Software,C-level,70,51,4,True,False,67.8,Warm
+Karan,Rohan Pvt Ltd,238,385000.0,Other,Individual Contributor,49,74,5,True,False,58.2,Warm
+Anjali,Karan Pvt Ltd,116,125000.0,Other,Individual Contributor,22,29,1,True,False,28.7,Cold
+Neha,Amit Systems,39,348000.0,Manufacturing,C-level,35,49,4,False,False,48.4,Cold
+Vikram,Amit Labs,86,20000.0,Other,Individual Contributor,27,36,1,False,False,14.5,Cold
+Arjun,Kavita Technologies,111,171000.0,Software,C-level,0,24,1,False,False,35.7,Cold
+Divya,Amit Pvt Ltd,189,486000.0,Healthcare,Individual Contributor,70,50,0,True,True,78.0,Warm
+Karan,Priya Group,1710,150000.0,Software,C-level,91,89,2,False,False,64.1,Warm
+Suresh,Rohan Solutions,194,71000.0,Other,Director,42,43,0,True,False,40.0,Cold
+Rohan,Karan Labs,162,1357000.0,Healthcare,C-level,65,59,7,True,True,94.7,Hot
+Neha,Karan Pvt Ltd,79,520000.0,Education,Director,49,78,2,False,False,60.3,Warm
+Divya,Divya Enterprises,640,952000.0,Finance,Manager,98,78,5,False,True,80.2,Hot
+Neha,Rohan Technologies,958,475000.0,Finance,C-level,52,59,1,True,False,81.6,Hot
+Sneha,Suresh Solutions,367,39000.0,Finance,Manager,56,47,3,False,False,45.1,Cold
+Anjali,Amit Solutions,143,728000.0,Retail,C-level,54,61,1,False,False,63.3,Warm
+Kavita,Rahul Enterprises,264,50000.0,Other,Manager,35,80,3,False,False,33.0,Cold
+Priya,Divya Technologies,797,135000.0,Finance,C-level,78,54,4,True,False,67.2,Warm
+Rohan,Kavita Corp,90,280000.0,Software,Director,60,48,0,False,False,45.4,Cold
+Pooja,Neha Systems,66,68000.0,Healthcare,Manager,81,28,0,True,False,40.7,Cold
+Rahul,Anjali Enterprises,485,197000.0,Finance,Manager,58,24,2,False,True,58.5,Warm
+Divya,Priya Group,84,184000.0,Software,C-level,30,16,2,True,False,43.1,Cold
+Divya,Rahul Corp,198,427000.0,Software,Director,62,55,0,False,False,59.6,Warm
+Priya,Anjali Systems,152,587000.0,Education,C-level,67,37,4,False,True,59.5,Warm
+Arjun,Vikram Enterprises,156,224000.0,Finance,Director,72,56,3,False,False,57.9,Warm
+Pooja,Kavita Industries,96,513000.0,Healthcare,C-level,62,78,7,True,False,84.1,Hot
+Suresh,Suresh Labs,504,72000.0,Software,Director,62,86,3,True,False,64.1,Warm
+Priya,Kavita Solutions,286,155000.0,Finance,C-level,67,29,0,True,False,61.0,Warm
+Vikram,Priya Group,26,248000.0,Healthcare,Manager,81,46,4,False,False,47.6,Cold
+Kavita,Rahul Enterprises,61,413000.0,Retail,C-level,79,88,5,False,False,69.1,Warm
+Rahul,Amit Solutions,48,40000.0,Retail,Manager,63,31,1,True,False,38.0,Cold
+Karan,Neha Systems,1837,688000.0,Software,Manager,73,58,6,False,False,74.1,Warm
+Arjun,Suresh Labs,1468,113000.0,Manufacturing,C-level,56,57,3,False,False,42.9,Cold
+Pooja,Divya Technologies,57,134000.0,Manufacturing,Individual Contributor,41,35,1,False,True,24.1,Cold
+Neha,Amit Solutions,16,123000.0,Manufacturing,Manager,56,26,0,False,False,25.3,Cold
+Sneha,Karan Systems,218,287000.0,Other,Director,65,59,3,False,True,54.4,Warm
+Sneha,Pooja Industries,159,76000.0,Finance,C-level,51,22,4,True,False,52.7,Warm
+Karan,Priya Solutions,6,120000.0,Other,Manager,29,41,1,False,False,17.2,Cold
+Arjun,Kavita Technologies,29,469000.0,Retail,Director,65,62,3,True,False,60.8,Warm
+Priya,Rohan Industries,31,61000.0,Other,Manager,20,36,1,False,False,10.7,Cold
+Priya,Priya Solutions,155,35000.0,Finance,Manager,43,28,1,False,False,37.4,Cold
+Rohan,Vikram Corp,2980,457000.0,Other,C-level,86,85,3,True,True,92.1,Hot
+Vikram,Rohan Industries,116,609000.0,Education,Manager,53,12,3,False,True,61.0,Warm
+Anjali,Divya Systems,98,76000.0,Manufacturing,Manager,69,13,0,False,True,35.2,Cold
+Rahul,Anjali Enterprises,722,1647000.0,Software,Manager,53,33,1,False,False,63.7,Warm
+Priya,Pooja Systems,572,666000.0,Healthcare,C-level,99,39,4,True,False,95.0,Hot
+Anjali,Vikram Corp,110,3664000.0,Finance,Director,47,41,2,False,False,57.8,Warm
+Pooja,Rohan Labs,26,152000.0,Manufacturing,Manager,64,76,3,True,True,52.5,Warm
+Karan,Amit Solutions,46,230000.0,Other,Manager,34,21,2,False,True,31.8,Cold
+Arjun,Neha Technologies,64,576000.0,Healthcare,Manager,46,38,2,True,False,48.9,Cold
+Sneha,Rahul Labs,533,1018000.0,Finance,C-level,69,83,2,False,False,84.5,Hot
+Pooja,Kavita Group,538,496000.0,Software,Individual Contributor,100,65,8,False,True,88.8,Hot
+Anjali,Kavita Labs,11,112000.0,Retail,Manager,53,47,1,True,True,44.0,Cold
+Anjali,Amit Enterprises,222,790000.0,Finance,Individual Contributor,45,64,4,True,False,71.7,Warm
+Rahul,Amit Systems,86,340000.0,Education,Individual Contributor,10,47,1,True,True,45.0,Cold
+Suresh,Rohan Group,175,655000.0,Other,C-level,90,60,3,True,True,80.3,Hot
+Kavita,Amit Industries,89,234000.0,Software,Individual Contributor,71,48,3,False,False,47.9,Cold
+Vikram,Divya Enterprises,500,447000.0,Manufacturing,Manager,61,76,3,True,False,69.4,Warm
+Sneha,Kavita Enterprises,253,1518000.0,Retail,Individual Contributor,80,66,2,False,False,65.5,Warm
+Rahul,Arjun Pvt Ltd,145,188000.0,Education,Manager,72,47,1,False,False,42.3,Cold
+Priya,Kavita Solutions,446,303000.0,Manufacturing,Manager,85,51,3,False,True,63.9,Warm
+Vikram,Suresh Enterprises,453,52000.0,Healthcare,Individual Contributor,57,74,3,False,False,45.2,Cold
+Karan,Pooja Corp,386,207000.0,Finance,C-level,81,25,2,False,False,55.9,Warm
+Kavita,Vikram Enterprises,270,61000.0,Education,C-level,64,39,3,True,True,55.2,Warm
+Neha,Pooja Systems,179,518000.0,Retail,Director,72,67,2,False,False,66.0,Warm
+Karan,Kavita Pvt Ltd,1098,701000.0,Healthcare,Manager,49,72,6,True,False,83.2,Hot
+Arjun,Amit Enterprises,168,176000.0,Manufacturing,Director,39,25,2,True,False,38.8,Cold
+Arjun,Karan Industries,31,125000.0,Software,Director,89,39,5,False,False,49.4,Cold
+Sneha,Divya Enterprises,187,68000.0,Education,Individual Contributor,46,37,5,False,False,28.7,Cold
+Vikram,Kavita Solutions,53,1012000.0,Retail,Manager,96,61,2,True,False,69.6,Warm
+Neha,Priya Labs,56,1713000.0,Retail,C-level,42,55,2,False,False,48.3,Cold
+Vikram,Rohan Technologies,35,86000.0,Finance,Manager,63,50,0,False,False,29.5,Cold
+Rohan,Neha Labs,285,60000.0,Other,Individual Contributor,15,36,2,True,False,39.0,Cold
+Kavita,Anjali Industries,44,11000.0,Finance,Director,60,4,1,False,False,28.0,Cold
+Karan,Karan Industries,314,1183000.0,Healthcare,Manager,87,58,1,True,True,85.2,Hot
+Priya,Amit Corp,144,40000.0,Manufacturing,Individual Contributor,38,12,4,False,False,22.8,Cold
+Rahul,Rahul Group,1070,228000.0,Education,Director,69,41,2,True,False,64.1,Warm
+Karan,Pooja Group,40,107000.0,Finance,Manager,83,56,1,False,False,41.6,Cold
+Sneha,Divya Pvt Ltd,613,108000.0,Finance,C-level,63,70,3,True,False,66.5,Warm
+Amit,Priya Technologies,129,81000.0,Healthcare,C-level,83,40,0,True,False,57.2,Warm
+Arjun,Anjali Corp,226,48000.0,Healthcare,Individual Contributor,64,28,0,False,False,37.4,Cold
+Anjali,Karan Systems,121,114000.0,Education,Individual Contributor,58,19,1,False,False,28.2,Cold
+Sneha,Sneha Industries,459,263000.0,Finance,Individual Contributor,60,16,3,False,False,51.3,Warm
+Anjali,Divya Technologies,80,516000.0,Finance,Manager,53,62,0,False,True,62.9,Warm
+Rahul,Neha Technologies,16,86000.0,Retail,Individual Contributor,17,46,0,False,False,16.6,Cold
+Priya,Rohan Labs,398,569000.0,Education,C-level,94,46,3,False,True,83.6,Hot
+Sneha,Divya Technologies,16,91000.0,Retail,C-level,22,38,2,False,False,28.9,Cold
+Neha,Neha Industries,43,162000.0,Healthcare,Director,58,52,1,True,False,43.8,Cold
+Priya,Vikram Solutions,142,238000.0,Retail,Manager,72,76,5,True,False,57.0,Warm
+Vikram,Pooja Group,268,100000.0,Other,C-level,38,25,4,True,False,46.5,Cold
+Arjun,Kavita Systems,560,214000.0,Finance,C-level,72,55,5,True,True,83.4,Hot
+Suresh,Priya Solutions,723,833000.0,Education,Individual Contributor,59,97,5,True,True,75.7,Warm
+Karan,Arjun Solutions,75,37000.0,Other,Manager,32,52,1,False,False,22.0,Cold
+Kavita,Vikram Enterprises,19,172000.0,Education,Manager,39,32,4,False,False,29.3,Cold
+Pooja,Vikram Pvt Ltd,958,191000.0,Retail,C-level,53,49,3,False,False,57.5,Warm
+Pooja,Karan Technologies,205,22000.0,Other,Manager,39,68,2,False,True,35.9,Cold
+Anjali,Kavita Enterprises,177,28000.0,Software,Individual Contributor,60,7,0,False,False,24.8,Cold
+Rohan,Rohan Labs,55,167000.0,Education,C-level,69,51,2,False,False,36.0,Cold
+Rohan,Suresh Industries,17,46000.0,Healthcare,Individual Contributor,49,62,2,False,False,20.6,Cold
+Pooja,Amit Solutions,1323,140000.0,Software,C-level,80,62,2,False,False,58.9,Warm
+Kavita,Amit Corp,156,214000.0,Retail,Individual Contributor,46,60,0,False,False,35.3,Cold
+Pooja,Divya Industries,160,213000.0,Other,Director,34,19,1,True,False,38.5,Cold
+Rahul,Priya Enterprises,426,1178000.0,Retail,Individual Contributor,75,56,5,True,False,84.0,Hot
+Karan,Divya Systems,237,597000.0,Education,C-level,81,56,6,False,False,67.3,Warm
+Neha,Priya Corp,99,275000.0,Education,Individual Contributor,74,68,2,False,False,48.0,Cold
+Suresh,Rohan Industries,24,81000.0,Education,Manager,46,32,3,False,False,28.6,Cold
+Rahul,Suresh Industries,58,238000.0,Other,Individual Contributor,33,37,2,False,False,30.0,Cold
+Priya,Karan Labs,33,121000.0,Manufacturing,Individual Contributor,56,7,0,False,False,18.1,Cold
+Sneha,Arjun Corp,331,637000.0,Healthcare,C-level,99,72,6,False,True,91.4,Hot
+Neha,Kavita Solutions,19,265000.0,Retail,Individual Contributor,41,14,3,True,False,34.0,Cold
+Divya,Suresh Technologies,1524,189000.0,Other,Director,100,82,4,True,False,75.1,Warm
+Pooja,Priya Enterprises,31,249000.0,Software,Director,70,62,3,True,False,59.7,Warm
+Anjali,Anjali Technologies,292,83000.0,Manufacturing,Manager,57,24,0,False,False,35.2,Cold
+Neha,Neha Labs,68,18000.0,Other,C-level,88,38,5,True,False,42.5,Cold
+Karan,Suresh Systems,51,331000.0,Education,Manager,76,90,7,False,True,48.8,Cold
+Vikram,Arjun Group,477,305000.0,Software,Director,51,56,0,False,False,54.8,Warm
+Amit,Pooja Corp,202,234000.0,Healthcare,Manager,71,37,2,True,True,68.5,Warm
+Pooja,Rohan Systems,129,433000.0,Software,Director,5,36,2,True,True,61.0,Warm
+Karan,Rohan Technologies,91,103000.0,Retail,Manager,100,69,6,True,True,62.2,Warm
+Kavita,Kavita Group,179,546000.0,Education,Individual Contributor,69,62,7,False,False,64.1,Warm
+Arjun,Rohan Labs,467,211000.0,Finance,Individual Contributor,85,100,3,True,False,79.1,Warm
+Amit,Divya Industries,79,229000.0,Manufacturing,Manager,61,48,4,False,False,46.0,Cold
+Arjun,Rohan Corp,139,171000.0,Software,Director,100,76,5,False,False,57.0,Warm
+Anjali,Vikram Labs,73,45000.0,Manufacturing,Individual Contributor,64,33,5,False,False,20.5,Cold
+Divya,Arjun Enterprises,374,243000.0,Other,C-level,67,53,6,True,False,78.2,Warm
+Arjun,Suresh Systems,225,40000.0,Other,Manager,48,47,1,False,False,39.9,Cold
+Suresh,Amit Industries,130,98000.0,Finance,C-level,24,28,3,False,False,36.5,Cold
+Karan,Anjali Group,165,551000.0,Manufacturing,Manager,61,24,3,False,False,50.2,Warm
+Suresh,Divya Group,77,1621000.0,Retail,Director,50,76,4,False,False,62.3,Warm
+Priya,Rahul Corp,544,473000.0,Healthcare,Individual Contributor,49,70,4,False,True,68.5,Warm
+Karan,Amit Enterprises,189,475000.0,Finance,C-level,64,40,4,True,True,82.5,Hot
+Vikram,Sneha Group,158,1738000.0,Education,Director,22,6,1,False,False,48.5,Cold
+Suresh,Divya Group,60,70000.0,Software,Director,54,33,3,False,False,37.7,Cold
+Arjun,Karan Enterprises,85,1031000.0,Other,Director,48,52,3,False,False,47.3,Cold
+Karan,Suresh Pvt Ltd,1357,288000.0,Education,Manager,67,25,7,False,False,54.4,Warm
+Pooja,Karan Labs,19,155000.0,Manufacturing,C-level,39,47,2,False,False,34.6,Cold
+Anjali,Karan Group,72,323000.0,Other,C-level,61,80,3,False,False,51.9,Warm
+Vikram,Kavita Industries,1757,541000.0,Education,Manager,71,60,4,False,False,68.7,Warm
+Priya,Rohan Technologies,81,36000.0,Education,C-level,33,48,3,False,False,31.7,Cold
+Pooja,Vikram Technologies,31,159000.0,Retail,Director,44,50,1,True,True,45.6,Cold
+Anjali,Neha Technologies,198,460000.0,Healthcare,Director,26,37,1,False,True,58.5,Warm
+Kavita,Karan Group,517,2938000.0,Other,Individual Contributor,76,62,5,False,False,52.4,Warm
+Amit,Arjun Solutions,103,195000.0,Healthcare,C-level,43,32,5,False,False,41.7,Cold
+Priya,Anjali Systems,323,319000.0,Other,Director,65,81,3,True,False,73.0,Warm
+Karan,Neha Group,596,435000.0,Finance,Manager,73,54,3,True,True,82.7,Hot
+Rahul,Priya Pvt Ltd,59,68000.0,Retail,Individual Contributor,61,37,3,False,False,25.6,Cold
+Sneha,Rahul Pvt Ltd,125,494000.0,Retail,C-level,56,54,2,False,False,55.4,Warm
+Arjun,Divya Enterprises,59,440000.0,Retail,Individual Contributor,60,65,2,False,False,51.9,Warm
+Karan,Arjun Labs,679,700000.0,Software,Individual Contributor,42,40,1,False,False,63.1,Warm
+Arjun,Priya Solutions,833,214000.0,Retail,C-level,38,47,4,False,True,60.2,Warm
+Suresh,Priya Systems,41,97000.0,Finance,Individual Contributor,32,47,1,False,False,18.3,Cold
+Pooja,Priya Systems,850,225000.0,Education,Manager,72,82,3,True,False,64.6,Warm
+Rohan,Suresh Solutions,574,138000.0,Manufacturing,Individual Contributor,32,46,0,False,False,33.1,Cold
+Rahul,Priya Solutions,325,327000.0,Education,Manager,72,47,2,True,False,64.7,Warm
+Pooja,Sneha Enterprises,192,358000.0,Software,C-level,59,62,3,True,True,75.9,Warm
+Rahul,Rohan Solutions,20,505000.0,Retail,Director,61,62,0,False,False,51.0,Warm
+Divya,Neha Technologies,29,70000.0,Manufacturing,C-level,91,52,5,False,True,50.5,Warm
+Vikram,Karan Enterprises,147,491000.0,Education,Individual Contributor,33,63,6,True,False,53.6,Warm
+Rohan,Pooja Technologies,216,1243000.0,Manufacturing,C-level,6,37,2,False,False,58.8,Warm
+Karan,Karan Group,323,126000.0,Retail,C-level,77,43,4,True,False,66.7,Warm
+Karan,Pooja Pvt Ltd,77,842000.0,Healthcare,Individual Contributor,66,59,6,True,False,68.2,Warm
+Rahul,Neha Corp,736,1144000.0,Software,Director,88,89,3,True,True,100.0,Hot
+Divya,Divya Pvt Ltd,758,100000.0,Manufacturing,Manager,53,48,1,True,False,44.9,Cold
+Amit,Amit Systems,432,101000.0,Finance,Director,89,74,2,False,False,56.4,Warm
+Karan,Neha Technologies,145,71000.0,Manufacturing,Individual Contributor,72,47,3,True,True,48.7,Cold
+Suresh,Arjun Solutions,223,900000.0,Other,Manager,29,18,3,False,False,54.7,Warm
+Neha,Kavita Pvt Ltd,83,53000.0,Healthcare,Manager,60,39,2,True,False,41.8,Cold
+Neha,Priya Systems,123,1325000.0,Healthcare,C-level,78,100,4,False,True,79.5,Warm
+Divya,Neha Industries,134,391000.0,Healthcare,Director,59,71,1,True,False,63.7,Warm
+Amit,Rahul Pvt Ltd,129,102000.0,Manufacturing,Manager,42,51,3,False,False,34.3,Cold
+Vikram,Pooja Pvt Ltd,251,31000.0,Finance,Manager,64,64,3,False,False,52.3,Warm
+Kavita,Anjali Enterprises,51,157000.0,Finance,Manager,38,29,0,True,False,44.2,Cold
+Pooja,Vikram Industries,1891,237000.0,Retail,Director,70,62,4,True,False,68.6,Warm
+Divya,Priya Technologies,102,298000.0,Manufacturing,C-level,62,90,3,False,False,56.0,Warm
+Rohan,Karan Systems,162,153000.0,Other,Manager,74,19,4,True,False,51.1,Warm
+Kavita,Suresh Industries,187,60000.0,Software,Director,53,90,5,True,False,61.7,Warm
+Pooja,Vikram Industries,37,212000.0,Healthcare,Director,36,48,3,False,False,41.7,Cold
+Rahul,Suresh Systems,301,278000.0,Retail,Director,72,64,2,True,False,74.0,Warm
+Karan,Arjun Industries,79,181000.0,Other,Individual Contributor,80,51,1,False,False,33.9,Cold
+Pooja,Amit Labs,308,393000.0,Retail,C-level,57,67,4,False,False,69.3,Warm
+Vikram,Anjali Systems,469,349000.0,Healthcare,C-level,62,57,4,False,True,69.9,Warm
+Rohan,Kavita Labs,546,261000.0,Software,Manager,90,50,3,False,False,60.7,Warm
+Arjun,Suresh Enterprises,650,126000.0,Software,C-level,58,17,4,False,True,57.3,Warm
+Rohan,Suresh Corp,19,271000.0,Other,Manager,57,25,1,False,False,31.4,Cold
+Vikram,Rohan Systems,1795,345000.0,Healthcare,Manager,86,68,1,False,True,63.0,Warm
+Karan,Kavita Technologies,1181,256000.0,Manufacturing,Director,75,34,2,False,False,58.5,Warm
+Arjun,Suresh Enterprises,301,542000.0,Manufacturing,Individual Contributor,83,63,3,True,True,71.3,Warm
+Pooja,Priya Systems,275,246000.0,Finance,C-level,61,78,3,True,False,83.8,Hot
+Kavita,Kavita Systems,52,860000.0,Retail,Manager,48,67,2,False,False,57.4,Warm
+Rahul,Amit Industries,155,44000.0,Manufacturing,Director,68,21,2,False,True,38.4,Cold
+Rahul,Amit Enterprises,62,295000.0,Finance,Manager,31,72,3,True,False,53.6,Warm
+Suresh,Rahul Enterprises,149,354000.0,Finance,Manager,42,48,2,False,False,51.0,Warm
+Kavita,Amit Systems,677,300000.0,Software,C-level,38,78,4,False,False,61.9,Warm
+Karan,Amit Group,122,595000.0,Other,Director,56,62,4,True,False,68.2,Warm
+Neha,Neha Solutions,70,234000.0,Healthcare,Director,21,29,1,False,False,32.6,Cold
+Arjun,Pooja Group,15,133000.0,Finance,Director,32,46,2,True,True,46.8,Cold
+Kavita,Neha Technologies,113,164000.0,Education,Manager,31,39,3,True,True,46.0,Cold
+Suresh,Amit Group,37,164000.0,Other,Manager,40,38,1,False,False,19.9,Cold
+Rohan,Arjun Corp,302,104000.0,Other,C-level,64,45,2,False,False,46.5,Cold
+Karan,Kavita Corp,634,1863000.0,Healthcare,Individual Contributor,51,51,5,False,False,65.5,Warm
+Divya,Neha Solutions,78,19000.0,Healthcare,Manager,45,65,3,False,False,31.1,Cold
+Pooja,Priya Enterprises,268,165000.0,Retail,C-level,47,68,2,False,False,48.8,Cold
+Divya,Divya Technologies,75,256000.0,Manufacturing,Individual Contributor,59,64,4,True,True,59.6,Warm
+Sneha,Divya Pvt Ltd,497,77000.0,Manufacturing,Manager,8,38,1,False,False,28.1,Cold
+Vikram,Vikram Group,143,77000.0,Retail,Director,64,76,3,True,False,53.1,Warm
+Rohan,Karan Systems,194,620000.0,Retail,Manager,54,30,2,False,False,61.2,Warm
+Arjun,Arjun Labs,21,19000.0,Retail,Manager,31,30,1,False,False,17.1,Cold
+Rohan,Divya Industries,394,874000.0,Healthcare,Individual Contributor,45,56,0,False,False,60.0,Warm
+Karan,Divya Industries,686,1107000.0,Other,Manager,88,95,2,True,True,86.2,Hot
+Arjun,Neha Technologies,72,204000.0,Software,C-level,62,49,4,True,False,64.9,Warm
+Pooja,Amit Labs,716,131000.0,Finance,Director,80,40,2,False,False,54.3,Warm
+Priya,Neha Technologies,137,32000.0,Manufacturing,Manager,35,43,0,True,False,39.1,Cold
+Arjun,Vikram Technologies,413,128000.0,Education,Director,73,44,3,False,False,48.8,Cold
+Sneha,Pooja Group,136,424000.0,Other,Manager,58,47,1,False,False,44.3,Cold
+Divya,Sneha Industries,67,87000.0,Healthcare,C-level,44,65,3,False,False,40.5,Cold
+Amit,Priya Enterprises,49,2021000.0,Education,C-level,61,58,2,True,True,69.2,Warm
+Sneha,Arjun Technologies,45,372000.0,Other,Director,38,42,2,False,False,42.0,Cold
+Divya,Pooja Group,203,45000.0,Education,Manager,67,51,4,False,False,27.2,Cold
+Neha,Sneha Labs,64,27000.0,Manufacturing,Director,30,37,2,False,False,23.0,Cold
+Priya,Arjun Solutions,332,602000.0,Retail,Manager,73,40,0,True,False,72.3,Warm
+Vikram,Arjun Enterprises,9,107000.0,Manufacturing,Director,54,37,1,False,False,23.8,Cold
+Sneha,Karan Pvt Ltd,28,611000.0,Education,Manager,32,21,2,False,False,38.1,Cold
+Rahul,Kavita Solutions,1055,482000.0,Other,Director,86,71,0,True,False,76.1,Warm
+Suresh,Divya Systems,183,316000.0,Healthcare,C-level,48,29,0,False,False,49.1,Cold
+Rahul,Divya Enterprises,470,461000.0,Other,C-level,51,59,5,False,False,60.7,Warm
+Anjali,Priya Group,69,203000.0,Finance,Director,49,67,2,False,False,45.2,Cold
+Vikram,Amit Systems,83,114000.0,Finance,Manager,12,24,0,False,False,29.4,Cold
+Vikram,Sneha Systems,124,347000.0,Retail,Manager,48,34,1,True,False,54.1,Warm
+Karan,Priya Solutions,335,228000.0,Finance,Individual Contributor,62,62,5,False,False,59.6,Warm
+Karan,Pooja Group,290,542000.0,Software,Manager,42,75,4,False,False,74.3,Warm
+Neha,Pooja Enterprises,332,72000.0,Software,Individual Contributor,46,29,3,False,False,45.9,Cold
+Rohan,Sneha Industries,135,652000.0,Retail,C-level,60,39,1,False,False,66.1,Warm
+Rahul,Arjun Pvt Ltd,22,127000.0,Software,Manager,50,13,1,False,False,28.0,Cold
+Priya,Divya Group,150,758000.0,Retail,Individual Contributor,70,11,2,False,False,49.2,Cold
+Rohan,Neha Solutions,501,106000.0,Retail,Director,76,68,3,True,False,66.2,Warm
+Vikram,Sneha Enterprises,334,127000.0,Healthcare,Director,33,74,2,False,False,50.0,Warm
+Rohan,Sneha Corp,910,959000.0,Retail,Individual Contributor,48,55,5,True,True,80.7,Hot
+Kavita,Amit Industries,174,320000.0,Education,Manager,37,33,2,False,False,48.3,Cold
+Karan,Sneha Group,180,360000.0,Manufacturing,Manager,100,66,7,False,False,65.1,Warm
+Divya,Amit Labs,178,169000.0,Retail,Individual Contributor,67,39,7,True,False,55.7,Warm
+Pooja,Suresh Group,49,367000.0,Other,C-level,29,0,1,False,False,30.6,Cold
+Arjun,Pooja Technologies,36,115000.0,Manufacturing,Manager,42,79,1,False,False,37.7,Cold
+Vikram,Kavita Solutions,231,311000.0,Retail,C-level,63,24,0,True,True,65.6,Warm
+Arjun,Karan Enterprises,68,363000.0,Retail,Manager,79,69,0,True,False,58.4,Warm
+Neha,Sneha Group,214,42000.0,Healthcare,C-level,47,39,3,True,False,49.5,Cold
+Arjun,Kavita Labs,9,106000.0,Finance,Individual Contributor,70,82,2,True,False,43.6,Cold
+Amit,Pooja Industries,244,259000.0,Software,Director,52,32,3,False,False,51.7,Warm
+Neha,Rohan Solutions,867,94000.0,Education,Individual Contributor,43,60,2,False,False,34.5,Cold
+Vikram,Divya Enterprises,64,227000.0,Software,C-level,86,85,3,True,False,62.6,Warm
+Pooja,Anjali Group,38,211000.0,Manufacturing,Manager,27,31,1,True,False,33.1,Cold
+Divya,Sneha Enterprises,156,322000.0,Retail,Director,49,57,0,True,True,70.1,Warm
+Priya,Priya Solutions,203,177000.0,Education,Manager,70,48,4,True,True,63.1,Warm
+Karan,Priya Solutions,1248,238000.0,Retail,Manager,52,50,7,True,False,68.4,Warm
+Rohan,Vikram Systems,177,2978000.0,Healthcare,Manager,94,34,4,True,False,82.2,Hot
+Arjun,Pooja Industries,184,148000.0,Finance,Manager,56,85,4,True,True,71.9,Warm
+Pooja,Kavita Labs,69,104000.0,Software,C-level,34,10,0,False,False,24.1,Cold
+Divya,Arjun Industries,332,257000.0,Other,Manager,34,42,1,True,False,47.3,Cold
+Neha,Rohan Group,190,234000.0,Manufacturing,Manager,52,33,4,False,False,40.0,Cold
+Arjun,Sneha Solutions,55,190000.0,Education,Manager,45,58,1,True,False,39.5,Cold
+Rahul,Rahul Group,84,301000.0,Retail,Director,76,38,3,False,True,52.9,Warm
+Arjun,Rahul Labs,106,649000.0,Other,Manager,71,54,3,True,True,68.6,Warm
+Vikram,Neha Systems,131,611000.0,Other,Director,73,55,1,True,False,68.5,Warm
+Arjun,Rohan Corp,104,148000.0,Other,C-level,48,68,5,True,False,50.9,Warm
+Rohan,Sneha Enterprises,68,123000.0,Finance,C-level,72,56,6,False,False,46.4,Cold
+Neha,Karan Enterprises,36,228000.0,Software,Director,46,44,2,True,False,42.9,Cold
+Sneha,Pooja Solutions,26,111000.0,Healthcare,Manager,41,24,4,False,False,24.7,Cold
+Kavita,Vikram Labs,54,33000.0,Finance,C-level,32,24,5,True,False,39.7,Cold
+Rahul,Amit Solutions,202,125000.0,Finance,Director,64,27,5,True,False,57.7,Warm
+Sneha,Priya Industries,507,56000.0,Healthcare,C-level,79,52,3,False,False,49.1,Cold
+Karan,Kavita Pvt Ltd,312,102000.0,Software,Director,74,49,7,True,False,67.6,Warm
+Karan,Amit Technologies,82,41000.0,Retail,Manager,39,22,1,True,True,32.9,Cold
+Sneha,Pooja Enterprises,16,232000.0,Healthcare,Individual Contributor,39,29,4,True,False,40.9,Cold
+Divya,Sneha Corp,368,97000.0,Other,Director,93,78,4,True,False,60.8,Warm
+Sneha,Kavita Solutions,2088,86000.0,Other,Individual Contributor,53,12,6,True,False,43.0,Cold
+Vikram,Anjali Industries,1406,215000.0,Manufacturing,Manager,81,42,0,True,False,55.3,Warm
+Priya,Vikram Labs,45,48000.0,Education,Manager,9,16,3,False,False,13.7,Cold
+Suresh,Sneha Solutions,89,172000.0,Education,Director,17,41,3,False,True,30.9,Cold
+Vikram,Neha Solutions,36,82000.0,Finance,Manager,18,35,2,False,False,27.9,Cold
+Karan,Divya Labs,1806,411000.0,Retail,Manager,65,60,5,True,True,81.6,Hot
+Amit,Kavita Solutions,490,460000.0,Education,Manager,40,39,4,True,True,72.1,Warm
+Suresh,Rahul Technologies,29,1295000.0,Education,Manager,48,47,2,False,False,43.0,Cold
+Amit,Kavita Systems,321,255000.0,Healthcare,Manager,58,68,2,False,False,57.0,Warm
+Karan,Kavita Systems,124,195000.0,Healthcare,Individual Contributor,60,50,6,False,False,46.0,Cold
+Rahul,Kavita Labs,133,918000.0,Software,Manager,67,63,3,True,True,80.4,Hot
+Amit,Arjun Pvt Ltd,33,1087000.0,Manufacturing,Director,66,43,3,False,True,65.5,Warm
+Pooja,Arjun Industries,65,288000.0,Healthcare,Manager,50,18,5,False,False,43.6,Cold
+Arjun,Anjali Labs,98,102000.0,Software,Manager,75,32,6,True,False,58.1,Warm
+Rahul,Neha Pvt Ltd,311,288000.0,Software,Manager,92,55,6,True,False,80.2,Hot
+Arjun,Pooja Corp,17,697000.0,Other,Manager,58,63,4,True,True,67.9,Warm
+Neha,Vikram Pvt Ltd,51,215000.0,Finance,Manager,46,42,1,False,False,33.8,Cold
+Priya,Rahul Industries,222,185000.0,Retail,Manager,64,31,2,True,False,51.7,Warm
+Priya,Rahul Corp,316,332000.0,Finance,Individual Contributor,100,64,3,True,False,78.8,Warm
+Rahul,Anjali Systems,190,107000.0,Education,Director,66,53,2,False,False,42.5,Cold
+Suresh,Kavita Solutions,35,383000.0,Manufacturing,Manager,68,46,3,True,False,58.5,Warm
+Rohan,Pooja Pvt Ltd,472,1338000.0,Retail,Manager,56,57,3,True,False,79.8,Warm
+Rahul,Divya Solutions,2296,95000.0,Other,Manager,64,60,4,False,True,44.1,Cold
+Priya,Priya Systems,70,143000.0,Other,Director,65,24,2,False,False,28.9,Cold
+Neha,Suresh Industries,498,87000.0,Manufacturing,Manager,13,23,0,False,False,29.5,Cold
+Suresh,Neha Pvt Ltd,369,238000.0,Manufacturing,Manager,74,66,1,True,True,65.8,Warm
+Amit,Karan Industries,205,324000.0,Education,Director,59,40,3,False,False,64.7,Warm
+Neha,Kavita Pvt Ltd,984,681000.0,Manufacturing,Director,53,57,5,True,True,85.4,Hot
+Rohan,Karan Corp,48,199000.0,Healthcare,Manager,68,37,2,False,False,38.6,Cold
+Sneha,Rohan Group,113,453000.0,Other,Manager,44,55,1,False,False,44.0,Cold
+Rohan,Rahul Technologies,126,171000.0,Education,Director,38,63,3,False,False,35.6,Cold
+Vikram,Rahul Enterprises,273,64000.0,Healthcare,Manager,33,19,1,False,False,33.7,Cold
+Divya,Pooja Enterprises,526,1537000.0,Finance,C-level,100,81,3,True,False,95.5,Hot
+Priya,Rahul Labs,128,357000.0,Manufacturing,Director,100,50,2,False,False,56.3,Warm
+Sneha,Sneha Enterprises,17,120000.0,Healthcare,C-level,36,80,4,True,False,46.7,Cold
+Sneha,Divya Solutions,357,109000.0,Other,C-level,75,96,4,False,False,61.2,Warm
+Divya,Divya Solutions,65,465000.0,Education,Director,54,39,2,False,False,54.7,Warm
+Rohan,Priya Technologies,425,72000.0,Manufacturing,Manager,34,40,3,True,False,47.7,Cold
+Pooja,Priya Systems,39,107000.0,Other,Director,58,12,2,False,False,21.5,Cold
+Karan,Suresh Corp,490,485000.0,Education,Manager,64,69,7,False,True,76.6,Warm
+Amit,Anjali Group,48,333000.0,Software,Director,70,68,6,True,False,74.9,Warm
+Rohan,Kavita Group,339,343000.0,Education,C-level,79,74,9,True,False,87.7,Hot
+Amit,Anjali Solutions,119,16000.0,Software,C-level,40,32,2,True,False,47.6,Cold
+Priya,Rohan Group,231,52000.0,Retail,Manager,61,71,4,True,False,58.4,Warm
+Arjun,Sneha Labs,182,565000.0,Retail,Manager,63,84,4,True,True,79.8,Warm
+Divya,Arjun Systems,6,179000.0,Retail,Manager,33,25,1,True,False,37.2,Cold
+Neha,Priya Solutions,107,1020000.0,Finance,C-level,41,44,6,False,False,60.2,Warm
+Anjali,Neha Technologies,252,872000.0,Education,Director,97,81,5,True,True,92.3,Hot
+Karan,Kavita Industries,475,2077000.0,Other,C-level,49,91,4,False,False,75.2,Warm
+Anjali,Amit Solutions,201,544000.0,Retail,C-level,49,34,3,False,False,58.9,Warm
+Amit,Pooja Enterprises,344,509000.0,Software,Manager,53,24,2,True,False,72.1,Warm
+Kavita,Rahul Pvt Ltd,25,407000.0,Software,Director,64,66,5,False,False,59.3,Warm
+Karan,Vikram Group,118,242000.0,Finance,Manager,55,52,4,True,False,56.6,Warm
+Suresh,Rahul Corp,28,438000.0,Retail,Manager,69,68,1,False,False,52.9,Warm
+Rahul,Vikram Systems,73,23000.0,Manufacturing,Individual Contributor,66,14,4,False,False,22.8,Cold
+Rahul,Priya Corp,101,270000.0,Other,Manager,52,62,4,True,False,58.4,Warm
+Pooja,Priya Technologies,1651,218000.0,Education,C-level,96,62,3,False,False,57.0,Warm
+Rohan,Arjun Solutions,114,321000.0,Healthcare,Manager,59,77,8,False,True,66.6,Warm
+Sneha,Arjun Labs,80,77000.0,Healthcare,Manager,36,56,4,False,True,33.8,Cold
+Arjun,Vikram Pvt Ltd,53,63000.0,Manufacturing,Individual Contributor,46,31,2,True,False,24.2,Cold
+Anjali,Anjali Enterprises,56,118000.0,Retail,Director,28,61,3,True,False,42.1,Cold
+Rahul,Suresh Enterprises,264,342000.0,Finance,Individual Contributor,60,75,1,False,True,61.2,Warm
+Arjun,Vikram Systems,104,9000.0,Retail,Individual Contributor,55,44,3,False,True,26.8,Cold
+Divya,Rohan Group,323,177000.0,Finance,Director,79,36,4,True,True,67.4,Warm
+Sneha,Neha Industries,523,388000.0,Education,Manager,64,69,2,False,True,64.5,Warm
+Arjun,Amit Systems,354,477000.0,Retail,Individual Contributor,30,11,3,False,False,55.3,Warm
+Pooja,Amit Enterprises,522,846000.0,Education,C-level,47,22,2,False,False,63.9,Warm
+Karan,Amit Industries,583,312000.0,Education,Manager,70,78,5,False,True,66.0,Warm
+Amit,Anjali Industries,143,352000.0,Healthcare,C-level,80,60,2,False,False,62.6,Warm
+Rohan,Vikram Labs,71,877000.0,Education,C-level,52,82,4,True,False,69.0,Warm
+Vikram,Amit Systems,227,388000.0,Education,Individual Contributor,82,68,6,False,False,54.7,Warm
+Neha,Vikram Systems,134,183000.0,Software,C-level,58,48,1,True,False,52.4,Warm
+Divya,Karan Labs,135,320000.0,Manufacturing,C-level,87,74,2,False,False,57.6,Warm
+Anjali,Amit Corp,322,112000.0,Finance,Director,69,76,4,False,False,57.2,Warm
+Rohan,Karan Technologies,55,1139000.0,Retail,Director,60,71,5,True,True,78.2,Warm
+Sneha,Karan Systems,74,302000.0,Healthcare,Individual Contributor,20,37,1,True,False,44.9,Cold
+Neha,Kavita Pvt Ltd,315,49000.0,Software,C-level,70,48,2,False,False,55.4,Warm
+Rahul,Neha Corp,43,880000.0,Other,Manager,55,56,5,True,False,60.1,Warm
+Neha,Arjun Group,112,1001000.0,Education,C-level,86,86,8,True,False,76.8,Warm
+Kavita,Kavita Technologies,143,1310000.0,Education,Individual Contributor,72,53,3,False,False,57.0,Warm
+Arjun,Rohan Group,261,334000.0,Finance,Manager,71,54,5,True,False,75.9,Warm
+Rohan,Vikram Enterprises,361,145000.0,Other,Manager,62,55,2,True,False,44.9,Cold
+Divya,Arjun Industries,1053,931000.0,Retail,C-level,59,43,1,True,False,73.8,Warm
+Priya,Amit Group,73,211000.0,Retail,Individual Contributor,59,27,1,False,False,29.3,Cold
+Kavita,Neha Systems,268,878000.0,Finance,Director,89,59,8,True,True,97.6,Hot
+Divya,Karan Industries,15,113000.0,Retail,C-level,66,31,2,True,False,41.2,Cold
+Suresh,Anjali Solutions,336,492000.0,Education,Manager,78,27,2,True,False,73.2,Warm
+Neha,Amit Corp,304,46000.0,Manufacturing,Manager,28,46,1,False,False,31.9,Cold
+Neha,Pooja Industries,116,69000.0,Manufacturing,Director,70,71,3,False,False,39.5,Cold
+Rohan,Vikram Enterprises,46,110000.0,Finance,Individual Contributor,55,61,4,True,False,42.3,Cold
+Priya,Amit Systems,154,462000.0,Education,Manager,67,53,4,True,False,64.4,Warm
+Pooja,Kavita Group,33,178000.0,Software,Manager,31,24,2,False,False,27.1,Cold
+Neha,Suresh Labs,192,70000.0,Other,C-level,9,25,0,False,False,25.7,Cold
+Sneha,Arjun Enterprises,133,442000.0,Retail,Director,76,51,6,True,False,75.3,Warm
+Amit,Amit Technologies,16,78000.0,Manufacturing,Manager,34,40,3,False,False,19.7,Cold
+Neha,Pooja Enterprises,284,159000.0,Education,Director,54,62,1,True,True,67.1,Warm
+Amit,Amit Enterprises,22,147000.0,Healthcare,Individual Contributor,24,36,1,True,False,30.9,Cold
+Arjun,Amit Labs,44,97000.0,Manufacturing,Manager,36,38,1,False,False,29.4,Cold
+Vikram,Anjali Pvt Ltd,52,426000.0,Education,Manager,31,22,2,False,False,35.2,Cold
+Priya,Vikram Labs,95,214000.0,Retail,Individual Contributor,66,49,1,False,False,28.8,Cold
+Rohan,Arjun Systems,79,97000.0,Finance,C-level,61,46,0,False,False,41.0,Cold
+Suresh,Arjun Solutions,82,178000.0,Education,C-level,66,75,7,True,False,59.5,Warm
+Divya,Vikram Corp,776,200000.0,Retail,Manager,76,50,3,False,False,53.7,Warm
+Neha,Anjali Industries,233,193000.0,Manufacturing,Manager,79,53,5,True,False,59.2,Warm
+Kavita,Karan Industries,525,862000.0,Manufacturing,Director,76,65,4,True,False,82.6,Hot
+Priya,Rahul Labs,236,224000.0,Manufacturing,C-level,82,66,3,True,True,70.8,Warm
+Neha,Rohan Corp,49,86000.0,Education,Individual Contributor,55,40,2,False,False,22.8,Cold
+Rahul,Suresh Systems,112,148000.0,Software,Director,36,42,2,False,False,42.6,Cold
+Arjun,Arjun Pvt Ltd,2795,360000.0,Education,C-level,74,66,4,False,True,72.1,Warm
+Divya,Neha Technologies,385,104000.0,Other,C-level,62,74,2,False,False,51.2,Warm
+Suresh,Kavita Labs,47,200000.0,Other,C-level,58,29,4,False,False,36.7,Cold
+Kavita,Pooja Group,97,377000.0,Other,C-level,63,66,2,True,True,65.4,Warm
+Rahul,Pooja Group,13,114000.0,Healthcare,Manager,18,43,4,False,False,20.9,Cold
+Rahul,Sneha Pvt Ltd,312,121000.0,Healthcare,Manager,75,37,0,False,False,45.6,Cold
+Amit,Vikram Technologies,54,83000.0,Other,Individual Contributor,79,63,4,False,True,23.9,Cold
+Neha,Neha Corp,311,318000.0,Healthcare,Individual Contributor,35,43,5,False,False,49.2,Cold
+Divya,Pooja Pvt Ltd,70,195000.0,Finance,Manager,58,66,1,False,False,41.4,Cold
+Sneha,Anjali Labs,45,631000.0,Education,C-level,72,65,5,True,False,73.4,Warm
+Priya,Anjali Technologies,324,92000.0,Other,Individual Contributor,66,25,1,True,False,44.5,Cold
+Karan,Kavita Group,50,377000.0,Other,C-level,65,38,4,True,False,60.4,Warm
+Arjun,Vikram Pvt Ltd,39,97000.0,Finance,Director,34,21,2,False,False,20.7,Cold
+Arjun,Suresh Industries,98,57000.0,Finance,Manager,48,45,0,True,False,40.9,Cold
+Arjun,Priya Technologies,226,111000.0,Finance,Manager,35,63,0,False,False,32.7,Cold
+Priya,Anjali Labs,399,1859000.0,Healthcare,Individual Contributor,53,38,5,False,False,59.1,Warm
+Rahul,Neha Enterprises,89,127000.0,Software,C-level,56,62,1,False,False,43.2,Cold
+Vikram,Arjun Pvt Ltd,1217,64000.0,Education,Individual Contributor,32,62,3,True,True,54.2,Warm
+Vikram,Priya Technologies,9,304000.0,Other,Manager,46,11,4,True,False,43.8,Cold
+Arjun,Anjali Enterprises,231,109000.0,Manufacturing,Director,74,89,2,True,False,59.6,Warm
+Amit,Priya Enterprises,250,118000.0,Finance,Individual Contributor,75,81,2,False,False,49.7,Cold
+Rahul,Kavita Technologies,254,841000.0,Manufacturing,Individual Contributor,71,26,5,False,True,63.1,Warm
+Divya,Neha Labs,28,177000.0,Software,Director,44,41,1,True,False,44.8,Cold
+Karan,Suresh Group,149,184000.0,Manufacturing,Director,44,23,3,True,False,49.3,Cold
+Amit,Priya Labs,49,58000.0,Software,Individual Contributor,40,40,1,False,False,20.0,Cold
+Kavita,Kavita Systems,230,466000.0,Software,Director,80,34,2,False,False,71.5,Warm
+Anjali,Rohan Industries,351,427000.0,Finance,C-level,55,71,3,False,True,74.9,Warm
+Anjali,Kavita Labs,163,188000.0,Education,Individual Contributor,30,37,2,True,False,42.9,Cold
+Pooja,Amit Enterprises,89,294000.0,Software,C-level,33,36,2,True,False,60.1,Warm
+Rohan,Pooja Solutions,321,177000.0,Other,Director,87,54,4,False,False,48.8,Cold
+Kavita,Rohan Corp,82,380000.0,Healthcare,Manager,56,56,4,True,False,59.0,Warm
+Rohan,Priya Pvt Ltd,84,444000.0,Finance,Manager,70,72,3,False,False,56.6,Warm
+Rohan,Neha Pvt Ltd,48,50000.0,Finance,Individual Contributor,45,59,2,False,False,20.8,Cold
+Divya,Divya Labs,50,277000.0,Manufacturing,Manager,58,34,5,True,False,46.6,Cold
+Pooja,Kavita Industries,348,195000.0,Software,Manager,62,31,4,False,False,64.4,Warm
+Pooja,Neha Corp,86,70000.0,Healthcare,Individual Contributor,67,48,0,True,True,47.7,Cold
+Pooja,Amit Technologies,128,36000.0,Healthcare,Director,55,49,5,False,True,51.5,Warm
+Rohan,Neha Labs,227,44000.0,Other,C-level,53,50,1,True,False,50.2,Warm
+Karan,Suresh Enterprises,75,116000.0,Finance,Director,55,42,1,False,False,34.6,Cold
+Neha,Rahul Group,51,101000.0,Retail,Manager,32,66,2,False,False,26.3,Cold
+Arjun,Rahul Technologies,1240,497000.0,Retail,Manager,75,71,5,False,True,79.8,Warm
+Vikram,Pooja Technologies,161,75000.0,Education,Manager,79,47,0,False,True,42.3,Cold
+Divya,Rohan Corp,332,214000.0,Finance,Director,71,48,4,False,False,58.2,Warm
+Amit,Sneha Group,84,109000.0,Retail,Director,42,64,3,True,False,39.2,Cold
+Vikram,Pooja Industries,761,576000.0,Retail,Individual Contributor,78,52,4,True,False,90.5,Hot
+Kavita,Suresh Corp,224,304000.0,Finance,C-level,69,64,1,False,True,65.9,Warm
+Kavita,Karan Corp,95,239000.0,Finance,C-level,58,39,1,False,False,45.7,Cold
+Kavita,Rohan Pvt Ltd,189,85000.0,Manufacturing,C-level,86,44,0,False,False,44.5,Cold
+Pooja,Divya Systems,8,122000.0,Finance,Director,15,1,5,False,False,25.4,Cold
+Anjali,Rahul Technologies,70,228000.0,Education,Manager,30,49,2,False,False,31.6,Cold
+Divya,Priya Industries,98,199000.0,Manufacturing,Manager,81,74,3,True,False,60.9,Warm
+Karan,Vikram Labs,35,57000.0,Education,Manager,42,50,2,False,False,22.7,Cold
+Kavita,Suresh Solutions,131,1161000.0,Manufacturing,C-level,72,70,6,False,True,68.3,Warm
+Rahul,Anjali Group,98,72000.0,Education,Manager,59,49,2,False,False,29.8,Cold
+Neha,Divya Pvt Ltd,34,108000.0,Other,C-level,72,46,6,True,False,47.0,Cold
+Amit,Rahul Enterprises,317,278000.0,Retail,C-level,92,73,4,False,True,79.2,Warm
+Neha,Amit Technologies,253,383000.0,Education,Manager,68,59,6,True,False,75.4,Warm
+Vikram,Kavita Solutions,575,1174000.0,Education,Individual Contributor,57,62,7,False,False,65.5,Warm
+Amit,Neha Enterprises,179,99000.0,Finance,Manager,59,40,1,False,False,34.9,Cold
+Amit,Neha Industries,163,129000.0,Healthcare,Individual Contributor,53,28,4,True,True,46.4,Cold
+Divya,Sneha Labs,182,405000.0,Education,Director,76,40,2,False,False,56.5,Warm
+Priya,Amit Industries,516,197000.0,Finance,Individual Contributor,20,37,1,False,False,41.2,Cold
+Sneha,Suresh Labs,113,1332000.0,Other,Manager,52,75,0,False,False,49.5,Cold
+Anjali,Rahul Enterprises,146,1194000.0,Education,Manager,30,42,1,True,False,55.1,Warm
+Kavita,Vikram Labs,59,192000.0,Other,Individual Contributor,0,34,0,True,False,22.9,Cold
+Suresh,Divya Corp,84,130000.0,Education,Individual Contributor,35,19,3,False,False,22.8,Cold
+Vikram,Karan Labs,329,142000.0,Retail,Director,29,43,1,False,False,31.5,Cold
+Rahul,Priya Group,33,40000.0,Retail,Manager,66,63,3,False,False,27.0,Cold
+Suresh,Pooja Enterprises,552,266000.0,Education,C-level,100,78,6,False,False,67.5,Warm
+Neha,Rohan Labs,662,254000.0,Healthcare,Director,48,24,0,False,False,54.4,Warm
+Karan,Sneha Group,106,941000.0,Other,Manager,100,57,6,True,False,71.2,Warm
+Rahul,Suresh Technologies,738,208000.0,Healthcare,Manager,49,47,1,False,False,49.0,Cold
+Suresh,Kavita Pvt Ltd,344,525000.0,Other,C-level,75,71,6,True,False,86.0,Hot
+Neha,Priya Technologies,85,554000.0,Finance,Manager,30,50,0,True,True,69.9,Warm
+Suresh,Priya Solutions,101,205000.0,Manufacturing,Manager,64,49,5,False,False,47.4,Cold
+Suresh,Neha Industries,371,170000.0,Software,Individual Contributor,70,79,5,True,False,67.5,Warm
+Priya,Suresh Labs,146,332000.0,Software,Manager,43,48,2,True,False,57.8,Warm
+Karan,Anjali Enterprises,85,74000.0,Healthcare,Individual Contributor,45,34,4,False,False,25.9,Cold
+Rohan,Anjali Technologies,21,78000.0,Finance,Individual Contributor,53,40,4,True,True,43.8,Cold
+Kavita,Sneha Corp,213,151000.0,Healthcare,Individual Contributor,52,40,2,True,False,47.2,Cold
+Rohan,Sneha Solutions,716,372000.0,Finance,Manager,48,64,4,True,False,75.2,Warm
+Neha,Divya Enterprises,140,97000.0,Retail,Manager,46,15,0,True,True,44.5,Cold
+Suresh,Rahul Technologies,62,642000.0,Other,Director,30,65,4,False,True,56.9,Warm
+Rohan,Neha Technologies,410,901000.0,Education,Director,80,64,3,True,False,86.4,Hot
+Rohan,Pooja Solutions,121,70000.0,Manufacturing,Manager,50,33,3,False,False,37.6,Cold
+Karan,Kavita Solutions,14,94000.0,Manufacturing,C-level,47,60,4,True,False,44.0,Cold
+Vikram,Rohan Technologies,271,738000.0,Manufacturing,Director,100,74,3,False,False,80.3,Hot
+Pooja,Anjali Solutions,88,168000.0,Education,Individual Contributor,21,20,1,False,False,18.9,Cold
+Amit,Arjun Technologies,102,102000.0,Other,Director,76,67,4,False,False,45.6,Cold
+Priya,Suresh Pvt Ltd,1784,523000.0,Retail,Manager,43,51,1,True,False,74.4,Warm
+Amit,Rahul Systems,6,478000.0,Retail,C-level,62,34,2,False,False,56.0,Warm
+Priya,Karan Group,83,42000.0,Software,Manager,35,44,5,False,False,33.3,Cold
+Kavita,Rahul Technologies,419,554000.0,Education,C-level,84,96,7,True,False,88.7,Hot
+Priya,Sneha Group,200,319000.0,Healthcare,C-level,97,77,6,False,True,70.4,Warm
+Divya,Neha Systems,72,589000.0,Retail,Individual Contributor,72,32,2,False,False,50.5,Warm
+Kavita,Neha Technologies,160,282000.0,Software,C-level,72,71,1,True,False,75.6,Warm
+Rahul,Vikram Solutions,20,219000.0,Finance,Manager,42,27,0,True,False,41.1,Cold
+Pooja,Priya Solutions,476,116000.0,Retail,Manager,83,55,1,False,True,57.3,Warm
+Sneha,Rohan Pvt Ltd,148,53000.0,Retail,Manager,46,53,2,False,True,40.2,Cold
+Priya,Suresh Group,384,41000.0,Other,Individual Contributor,46,58,5,False,False,35.2,Cold
+Rahul,Neha Industries,201,160000.0,Finance,C-level,74,64,7,False,True,70.3,Warm
