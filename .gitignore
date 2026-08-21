@@ -3,4 +3,4 @@ __pycache__/
 *.pyc
 .env
 .ipynb_checkpoints/
-src/lead_scoring_system/app.py
+src/lead_scoring_system/main.py
